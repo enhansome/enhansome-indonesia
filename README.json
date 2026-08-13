@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "description": "Awesome List ini berisi koleksi proyek open source Indonesia yang dapat diakses publik dan tetap dirawat oleh komunitas.\nRepo ini difokuskan untuk proyek yang masih fresh dan aktif pada 2026. Contributor cukup submit perubahan ke ; README akan diperbarui lewat PR metadata otomatis setelah perubahan digabungkan. Untuk resource non-app, proyek legacy, atau kandidat revival, gunakan repo turunan yang lebih sesuai:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome Indonesia Legacy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:26:33Z",
+            "owner": "IndopenSource",
+            "repo": "awesome-indonesia-legacy",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Indonesia Revival",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:18:56Z",
+            "owner": "IndopenSource",
+            "repo": "awesome-indonesia-revival",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Tentang Daftar"
+    },
+    {
+      "description": "Urutan proyek berdasarkan jumlah GitHub stars (descending). Data terakhir disinkronkan: 2026-07-15.",
+      "items": [],
+      "title": "Urutan & Sumber Data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Daftar Proyek"
+    },
+    {
+      "description": "Lihat CONTRIBUTING.md.",
+      "items": [],
+      "title": "Cara Berkontribusi"
+    },
+    {
+      "description": "Dokumen dan struktur daftar ini menggunakan MIT License, sedangkan tiap proyek tetap mengikuti lisensi asli masing-masing repositori.",
+      "items": [],
+      "title": "Lisensi"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Kontributor"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T20:19:15.063Z",
+    "original_repository": "IndopenSource/awesome-indonesia",
+    "original_repository_sha": "e0dd0e994e52cd89b087be8b3f243f0976b51ce9",
+    "enhanced_repository": "enhansome/enhansome-indonesia",
+    "enhanced_repository_description": null,
+    "title": "Awesome Indonesia with stars"
+  }
+}
