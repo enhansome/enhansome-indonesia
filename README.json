@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Awesome List ini berisi koleksi proyek open source Indonesia yang dapat diakses publik dan tetap dirawat oleh komunitas.\nRepo ini difokuskan untuk proyek yang masih fresh dan aktif pada 2026. Contributor cukup submit perubahan ke ; README akan diperbarui lewat PR metadata otomatis setelah perubahan digabungkan. Untuk resource non-app, proyek legacy, atau kandidat revival, gunakan repo turunan yang lebih sesuai:",
+      "description": "Awesome List ini berisi koleksi proyek open source Indonesia yang dapat diakses publik dan tetap dirawat oleh komunitas.\nRepo ini difokuskan untuk proyek yang masih fresh dan aktif pada 2026. Contributor cukup submit perubahan ke ; README akan diperbarui lewat PR metadata otomatis setelah perubahan digabungkan. Untuk resource non-app, proyek legacy, atau kandidat revival, gunakan repo turunan yang lebih sesuai:\nDaftar ini juga tersedia dalam versi UI di tokengratis.id/opensource melalui repo raymondchins/tokengratis-id, serta di indopensource.org/projects.",
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1269000023,
             "language": "Python",
             "last_commit": "2026-08-18T18:56:51Z",
             "owner": "IndopenSource",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1268999981,
             "language": "Python",
             "last_commit": "2026-08-18T18:55:15Z",
             "owner": "IndopenSource",
@@ -33,41 +35,12 @@
         }
       ],
       "title": "Tentang Daftar"
-    },
-    {
-      "description": "Urutan proyek berdasarkan jumlah GitHub stars (descending). Data terakhir disinkronkan: 2026-07-15.",
-      "items": [],
-      "title": "Urutan & Sumber Data"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Daftar Proyek"
-    },
-    {
-      "description": "Lihat CONTRIBUTING.md.",
-      "items": [],
-      "title": "Cara Berkontribusi"
-    },
-    {
-      "description": "Dokumen dan struktur daftar ini menggunakan MIT License, sedangkan tiap proyek tetap mengikuti lisensi asli masing-masing repositori.",
-      "items": [],
-      "title": "Lisensi"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Kontributor"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Star History"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:56:20.712Z",
+    "last_updated": "2026-08-19T12:32:42.918Z",
     "original_repository": "IndopenSource/awesome-indonesia",
+    "original_repository_id": 1266598624,
     "original_repository_sha": "e0dd0e994e52cd89b087be8b3f243f0976b51ce9",
     "enhanced_repository": "enhansome/enhansome-indonesia",
     "enhanced_repository_description": null,
