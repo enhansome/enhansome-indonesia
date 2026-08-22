@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1269000023,
             "language": "Python",
-            "last_commit": "2026-08-21T18:56:42Z",
+            "last_commit": "2026-08-22T18:49:36Z",
             "owner": "IndopenSource",
             "repo": "awesome-indonesia-legacy",
             "stars": 0
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1268999981,
             "language": "Python",
-            "last_commit": "2026-08-21T18:55:02Z",
+            "last_commit": "2026-08-22T18:47:58Z",
             "owner": "IndopenSource",
             "repo": "awesome-indonesia-revival",
             "stars": 0
@@ -38,7 +38,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:55:54.462Z",
+    "last_updated": "2026-08-22T19:54:43.684Z",
     "original_repository": "IndopenSource/awesome-indonesia",
     "original_repository_id": 1266598624,
     "original_repository_sha": "e0dd0e994e52cd89b087be8b3f243f0976b51ce9",
