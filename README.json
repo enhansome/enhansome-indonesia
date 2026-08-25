@@ -56,7 +56,7 @@
         },
         {
           "node_type": "item",
-          "title": "2.0.10",
+          "title": "faisalman/ua-parser-js",
           "description": "2026-05-21",
           "children": [],
           "repo_info": {
@@ -86,7 +86,7 @@
         },
         {
           "node_type": "item",
-          "title": "6.5.0",
+          "title": "laravolt/avatar",
           "description": "2026-06-10",
           "children": [],
           "repo_info": {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-21T01:38:36Z",
             "owner": "jipraks",
             "repo": "yt-short-clipper",
-            "stars": 967
+            "stars": 968
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-21T01:38:36Z",
             "owner": "jipraks",
             "repo": "yt-short-clipper",
-            "stars": 967
+            "stars": 968
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-08-24T08:59:24Z",
             "owner": "fajarhide",
             "repo": "omni",
-            "stars": 355
+            "stars": 357
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-24T08:59:24Z",
             "owner": "fajarhide",
             "repo": "omni",
-            "stars": 355
+            "stars": 357
           }
         },
         {
@@ -371,8 +371,8 @@
         },
         {
           "node_type": "item",
-          "title": "12",
-          "description": "clipforgeN/A @mallexibra-dev Python 150 36 0 MIT 2026-06-26 N/A N/A",
+          "title": "clipforge",
+          "description": "N/A @mallexibra-dev Python 150 36 0 MIT 2026-06-26 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -386,8 +386,8 @@
         },
         {
           "node_type": "item",
-          "title": "13",
-          "description": "Online-banking-angular-springboot-mysqlOnline banking angular springboot mysql @hendisantika Java 132 97 0 N/A 2026-07-01 N/A N/A",
+          "title": "Online-banking-angular-springboot-mysql",
+          "description": "Online banking angular springboot mysql @hendisantika Java 132 97 0 N/A 2026-07-01 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 1252865556,
             "language": "Rust",
-            "last_commit": "2026-08-24T11:48:00Z",
+            "last_commit": "2026-08-25T04:50:10Z",
             "owner": "codecoradev",
             "repo": "uteke",
             "stars": 235
@@ -423,7 +423,7 @@
             "archived": false,
             "id": 1252865556,
             "language": "Rust",
-            "last_commit": "2026-08-24T11:48:00Z",
+            "last_commit": "2026-08-25T04:50:10Z",
             "owner": "codecoradev",
             "repo": "uteke",
             "stars": 235
@@ -461,8 +461,8 @@
         },
         {
           "node_type": "item",
-          "title": "16",
-          "description": "kasirgratisanFree, Open Source, Offline Point of Sales Apps @jipraks TypeScript 105 54 1 MIT 2026-07-13 N/A N/A",
+          "title": "kasirgratisan",
+          "description": "Free, Open Source, Offline Point of Sales Apps @jipraks TypeScript 105 54 1 MIT 2026-07-13 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -596,8 +596,8 @@
         },
         {
           "node_type": "item",
-          "title": "21",
-          "description": "njinattend-backendThe backend of NjinAttend is built using AdonisJS. @njinlabs TypeScript 73 20 0 N/A 2023-10-04 N/A N/A",
+          "title": "njinattend-backend",
+          "description": "The backend of NjinAttend is built using AdonisJS. @njinlabs TypeScript 73 20 0 N/A 2023-10-04 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -671,8 +671,8 @@
         },
         {
           "node_type": "item",
-          "title": "24",
-          "description": "AndKasirAndKasir merupakan aplikasi open source yang dibangun dengan bahasa pemrograman Java untuk kebutuhan retail perusahaan menengah dalam mengatur aktifitas barang masuk dan keluar. konsultasi isu, instalasi dan penambahan fitur silahkan kirim email ke irwan@andriawan.com @andriawan Java 46 40 1 GPL-3.0 2026-01-16 N/A",
+          "title": "AndKasir",
+          "description": "AndKasir merupakan aplikasi open source yang dibangun dengan bahasa pemrograman Java untuk kebutuhan retail perusahaan menengah dalam mengatur aktifitas barang masuk dan keluar. konsultasi isu, instalasi dan penambahan fitur silahkan kirim email ke irwan@andriawan.com @andriawan Java 46 40 1 GPL-3.0 2026-01-16  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -806,8 +806,8 @@
         },
         {
           "node_type": "item",
-          "title": "29",
-          "description": "dnsDNS Pemblokir Judol, Iklan & Tracker @akbxr N/A 41 3 16 MIT 2026-04-01 N/A",
+          "title": "dns",
+          "description": "DNS Pemblokir Judol, Iklan & Tracker @akbxr N/A 41 3 16 MIT 2026-04-01  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -851,8 +851,8 @@
         },
         {
           "node_type": "item",
-          "title": "31",
-          "description": "diskusAn ultra-lightweight, privacy-first, and self-hosted Disqus alternative @fadhilbarkah TypeScript 36 0 2 GPL-3.0 2026-07-04 N/A",
+          "title": "diskus",
+          "description": "An ultra-lightweight, privacy-first, and self-hosted Disqus alternative @fadhilbarkah TypeScript 36 0 2 GPL-3.0 2026-07-04  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -866,14 +866,14 @@
         },
         {
           "node_type": "item",
-          "title": "32",
-          "description": "os-vpsTopside — mobile-first web cockpit for a headless Linux VPS. Terminal, files, monitor, media + a real remote browser in a desktop-style UI. Single Next.js app, no database, no agent. @rahmanef63 TypeScript 35 6 0 MIT 2026-07-15 N/A",
+          "title": "os-vps",
+          "description": "Topside — mobile-first web cockpit for a headless Linux VPS. Terminal, files, monitor, media + a real remote browser in a desktop-style UI. Single Next.js app, no database, no agent. @rahmanef63 TypeScript 35 6 0 MIT 2026-07-15  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1253671303,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:02:30Z",
+            "last_commit": "2026-08-24T21:24:02Z",
             "owner": "rahmanef63",
             "repo": "mso",
             "stars": 72
@@ -971,8 +971,8 @@
         },
         {
           "node_type": "item",
-          "title": "36",
-          "description": "agent-cliA beautiful Terminal UI for launching multiple AI providers from a single command @galpratama HTML 30 7 0 MIT 2025-12-27 N/A N/A",
+          "title": "agent-cli",
+          "description": "A beautiful Terminal UI for launching multiple AI providers from a single command @galpratama HTML 30 7 0 MIT 2025-12-27 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -986,8 +986,8 @@
         },
         {
           "node_type": "item",
-          "title": "37",
-          "description": "natsNATS | Open Source Business and Accounting Software @maziyank TypeScript 21 2 0 MIT 2026-07-12 N/A N/A",
+          "title": "nats",
+          "description": "NATS | Open Source Business and Accounting Software @maziyank TypeScript 21 2 0 MIT 2026-07-12 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1001,8 +1001,8 @@
         },
         {
           "node_type": "item",
-          "title": "38",
-          "description": "yntk-tsYou Need This Kit - Type-safe Starter: REST API boilerplate that ships with User Management, Role Management, and Authentication with JWTs, Prisma ORM, and PostgreSQL @rayasabari TypeScript 20 0 0 N/A 2026-04-08 N/A N/A",
+          "title": "yntk-ts",
+          "description": "You Need This Kit - Type-safe Starter: REST API boilerplate that ships with User Management, Role Management, and Authentication with JWTs, Prisma ORM, and PostgreSQL @rayasabari TypeScript 20 0 0 N/A 2026-04-08 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1016,8 +1016,8 @@
         },
         {
           "node_type": "item",
-          "title": "39",
-          "description": "mandum-rimbaMandum Rimba is an independent, nonprofit public-interest observatory. We do not sell data, carry advertising, or take sides. We consolidate satellite data and credible public sources into a single open map, auditable by anyone, fully open source, and with every figure traceable to its origin. @ammar-rasyidi TypeScript 18 5 0 AGPL-3.0 2026-07-13 N/A",
+          "title": "mandum-rimba",
+          "description": "Mandum Rimba is an independent, nonprofit public-interest observatory. We do not sell data, carry advertising, or take sides. We consolidate satellite data and credible public sources into a single open map, auditable by anyone, fully open source, and with every figure traceable to its origin. @ammar-rasyidi TypeScript 18 5 0 AGPL-3.0 2026-07-13  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1031,8 +1031,8 @@
         },
         {
           "node_type": "item",
-          "title": "40",
-          "description": "warungosN/A @RafiulM TypeScript 17 5 1 N/A 2026-05-21 N/A N/A",
+          "title": "warungos",
+          "description": "N/A @RafiulM TypeScript 17 5 1 N/A 2026-05-21 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1046,8 +1046,8 @@
         },
         {
           "node_type": "item",
-          "title": "41",
-          "description": "control-roomterminals vps for vibe coders, tmux alternative @rahmanef63 TypeScript 17 3 0 MIT 2026-06-24 N/A N/A",
+          "title": "control-room",
+          "description": "terminals vps for vibe coders, tmux alternative @rahmanef63 TypeScript 17 3 0 MIT 2026-06-24 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1151,8 +1151,8 @@
         },
         {
           "node_type": "item",
-          "title": "45",
-          "description": "open-silongAn open-source Notion-inspired workspace for teams and personal use @rahmanef63 TypeScript 13 3 0 MIT 2026-07-15 N/A",
+          "title": "open-silong",
+          "description": "An open-source Notion-inspired workspace for teams and personal use @rahmanef63 TypeScript 13 3 0 MIT 2026-07-15  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1196,14 +1196,14 @@
         },
         {
           "node_type": "item",
-          "title": "47",
-          "description": "si-coder-agentZero-human full-stack deployment skill bundle for AI agents — GitHub + Dokploy + Convex (self-hosted & Cloud) + Vercel + Hostinger DNS, via modular /sc-* slash commands. @rahmanef63 JavaScript 12 2 0 MIT 2026-07-10 N/A",
+          "title": "si-coder-agent",
+          "description": "Zero-human full-stack deployment skill bundle for AI agents — GitHub + Dokploy + Convex (self-hosted & Cloud) + Vercel + Hostinger DNS, via modular /sc-* slash commands. @rahmanef63 JavaScript 12 2 0 MIT 2026-07-10  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1185590962,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T12:10:20Z",
+            "last_commit": "2026-08-24T21:25:53Z",
             "owner": "rahmanef63",
             "repo": "si-coder-agent",
             "stars": 14
@@ -1211,8 +1211,8 @@
         },
         {
           "node_type": "item",
-          "title": "48",
-          "description": "numcA fast, lightweight NumPy-like N-dimensional tensor library in C, built for high-performance scientific computing and AI workloads. @rizukirr C 12 1 0 MIT 2026-06-16 N/A",
+          "title": "numc",
+          "description": "A fast, lightweight NumPy-like N-dimensional tensor library in C, built for high-performance scientific computing and AI workloads. @rizukirr C 12 1 0 MIT 2026-06-16  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1346,8 +1346,8 @@
         },
         {
           "node_type": "item",
-          "title": "53",
-          "description": "OpenMasjidN/A @hellodit Vue 10 0 0 N/A 2026-05-21 N/A N/A",
+          "title": "OpenMasjid",
+          "description": "N/A @hellodit Vue 10 0 0 N/A 2026-05-21 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1361,8 +1361,8 @@
         },
         {
           "node_type": "item",
-          "title": "54",
-          "description": "app-permission-analyzerApp Permission Analyzer is a local first Android app for reviewing installed apps and APK files before you trust them. It explain requested permission in plain language, detect common tracker SDK signature, highlight risky permission combination, and generate a simple privacy score. @RRNDev Kotlin 8 0 0 NOASSERTION 2026-05-23 N/A",
+          "title": "app-permission-analyzer",
+          "description": "App Permission Analyzer is a local first Android app for reviewing installed apps and APK files before you trust them. It explain requested permission in plain language, detect common tracker SDK signature, highlight risky permission combination, and generate a simple privacy score. @RRNDev Kotlin 8 0 0 NOASSERTION 2026-05-23  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1376,8 +1376,8 @@
         },
         {
           "node_type": "item",
-          "title": "55",
-          "description": "subtrackN/A @sipamungkas TypeScript 8 0 1 MIT 2026-03-29 N/A N/A",
+          "title": "subtrack",
+          "description": "N/A @sipamungkas TypeScript 8 0 1 MIT 2026-03-29 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1391,8 +1391,8 @@
         },
         {
           "node_type": "item",
-          "title": "56",
-          "description": "framepilotBrowser-based 3D camera previsualization and shot planner for designing scenes, frames, camera angles, lenses, movements, and AI-ready prompts. @rahmanef63 TypeScript 8 0 0 N/A 2026-07-15 N/A N/A",
+          "title": "framepilot",
+          "description": "Browser-based 3D camera previsualization and shot planner for designing scenes, frames, camera angles, lenses, movements, and AI-ready prompts. @rahmanef63 TypeScript 8 0 0 N/A 2026-07-15 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1436,8 +1436,8 @@
         },
         {
           "node_type": "item",
-          "title": "58",
-          "description": "nusakit-api🇮🇩 Indonesian Data Validation API — NIK, NPWP, Phone, Rupiah, Bank, Wilayah. Live: nusakit.my.id @muhfauziazhar TypeScript 7 1 0 MIT 2026-06-13 N/A N/A",
+          "title": "nusakit-api",
+          "description": "🇮🇩 Indonesian Data Validation API — NIK, NPWP, Phone, Rupiah, Bank, Wilayah. Live: nusakit.my.id @muhfauziazhar TypeScript 7 1 0 MIT 2026-06-13 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1451,8 +1451,8 @@
         },
         {
           "node_type": "item",
-          "title": "59",
-          "description": "tempa-uiSimple UI for lazy developers. UI components built with Astro and Tailwind CSS. Free Forever @anandazp Astro 7 0 0 N/A 2026-06-28 N/A",
+          "title": "tempa-ui",
+          "description": "Simple UI for lazy developers. UI components built with Astro and Tailwind CSS. Free Forever @anandazp Astro 7 0 0 N/A 2026-06-28  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1526,8 +1526,8 @@
         },
         {
           "node_type": "item",
-          "title": "62",
-          "description": "ArtidorN/A @Aofsnorth TypeScript 6 1 5 NOASSERTION 2026-07-14 N/A N/A",
+          "title": "Artidor",
+          "description": "N/A @Aofsnorth TypeScript 6 1 5 NOASSERTION 2026-07-14 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1541,8 +1541,8 @@
         },
         {
           "node_type": "item",
-          "title": "63",
-          "description": "tokengratis-idDirectory free AI credits & free tier, Indonesia-first, auto-aggregated dari sumber komunitas. Aggregator transparan (bukan verifier), anti-halusinasi, maintenance nyaris nol. @raymondchins JavaScript 6 0 1 MIT 2026-07-14 N/A N/A",
+          "title": "tokengratis-id",
+          "description": "Directory free AI credits & free tier, Indonesia-first, auto-aggregated dari sumber komunitas. Aggregator transparan (bukan verifier), anti-halusinasi, maintenance nyaris nol. @raymondchins JavaScript 6 0 1 MIT 2026-07-14 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1556,8 +1556,8 @@
         },
         {
           "node_type": "item",
-          "title": "64",
-          "description": "ai-agenticN/A @RamaAditya49 N/A 5 0 0 N/A 2026-06-09 N/A N/A",
+          "title": "ai-agentic",
+          "description": "N/A @RamaAditya49 N/A 5 0 0 N/A 2026-06-09 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1631,8 +1631,8 @@
         },
         {
           "node_type": "item",
-          "title": "67",
-          "description": "agent-proxmoxReusable AI agent skill for safe Proxmox homelab production operations, LXC activity logging, backups, security, and migration runbooks. @wauputr4 Python 4 1 1 MIT 2026-06-06 N/A",
+          "title": "agent-proxmox",
+          "description": "Reusable AI agent skill for safe Proxmox homelab production operations, LXC activity logging, backups, security, and migration runbooks. @wauputr4 Python 4 1 1 MIT 2026-06-06  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1646,8 +1646,8 @@
         },
         {
           "node_type": "item",
-          "title": "68",
-          "description": "ragi-instantRAG System that implement simple and fast. like ragi to make indonesian bread @faisalaffan TypeScript 3 0 6 MIT 2026-06-29 N/A",
+          "title": "ragi-instant",
+          "description": "RAG System that implement simple and fast. like ragi to make indonesian bread @faisalaffan TypeScript 3 0 6 MIT 2026-06-29  N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1661,8 +1661,8 @@
         },
         {
           "node_type": "item",
-          "title": "69",
-          "description": "hermexAstrology learning game and reflective Hermes AI MVP for hermex.fun @wauputr4 Python 3 0 0 MIT 2026-06-06 N/A N/A",
+          "title": "hermex",
+          "description": "Astrology learning game and reflective Hermes AI MVP for hermex.fun @wauputr4 Python 3 0 0 MIT 2026-06-06 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1706,8 +1706,8 @@
         },
         {
           "node_type": "item",
-          "title": "71",
-          "description": "libmuslimA lightweight C library for calculating Islamic prayer times, support 21 calculation method worldwide @muslimtify-org C 2 0 0 N/A 2026-07-13 N/A N/A",
+          "title": "libmuslim",
+          "description": "A lightweight C library for calculating Islamic prayer times, support 21 calculation method worldwide @muslimtify-org C 2 0 0 N/A 2026-07-13 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1728,7 +1728,7 @@
             "archived": false,
             "id": 1154154700,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T05:52:37Z",
+            "last_commit": "2026-08-25T04:29:56Z",
             "owner": "AdityaZxxx",
             "repo": "sheltermark",
             "stars": 1
@@ -1743,7 +1743,7 @@
             "archived": false,
             "id": 1154154700,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T05:52:37Z",
+            "last_commit": "2026-08-25T04:29:56Z",
             "owner": "AdityaZxxx",
             "repo": "sheltermark",
             "stars": 1
@@ -1751,8 +1751,8 @@
         },
         {
           "node_type": "item",
-          "title": "73",
-          "description": "pantau-bbmAplikasi web untuk memantau harga BBM Indonesia per wilayah @bimoalfarrabi PHP 1 0 0 MIT 2026-07-10 N/A N/A",
+          "title": "pantau-bbm",
+          "description": "Aplikasi web untuk memantau harga BBM Indonesia per wilayah @bimoalfarrabi PHP 1 0 0 MIT 2026-07-10 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1826,8 +1826,8 @@
         },
         {
           "node_type": "item",
-          "title": "76",
-          "description": "Hospital-Ai-Sales-AgentAI-powered sales agent for hospitals that automates lead qualification, patient engagement, appointment scheduling, and follow-up workflows. @NzxCode Python 0 0 0 N/A 2026-06-14 N/A N/A",
+          "title": "Hospital-Ai-Sales-Agent",
+          "description": "AI-powered sales agent for hospitals that automates lead qualification, patient engagement, appointment scheduling, and follow-up workflows. @NzxCode Python 0 0 0 N/A 2026-06-14 N/A N/A",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1844,7 +1844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:01:27.343Z",
+    "last_updated": "2026-08-25T06:35:57.676Z",
     "original_repository": "IndopenSource/awesome-indonesia",
     "original_repository_id": 1266598624,
     "original_repository_sha": "e0dd0e994e52cd89b087be8b3f243f0976b51ce9",
