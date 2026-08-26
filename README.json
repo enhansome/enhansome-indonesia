@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1269000023,
             "language": "Python",
-            "last_commit": "2026-08-25T18:57:37Z",
+            "last_commit": "2026-08-26T20:03:07Z",
             "owner": "IndopenSource",
             "repo": "awesome-indonesia-legacy",
             "stars": 0
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1268999981,
             "language": "Python",
-            "last_commit": "2026-08-25T18:55:43Z",
+            "last_commit": "2026-08-26T20:01:17Z",
             "owner": "IndopenSource",
             "repo": "awesome-indonesia-revival",
             "stars": 0
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T15:56:44Z",
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10180
+            "stars": 10181
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-24T15:56:44Z",
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10180
+            "stars": 10181
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-01-25T01:00:57Z",
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1359
+            "stars": 1360
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-01-25T01:00:57Z",
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1359
+            "stars": 1360
           }
         },
         {
@@ -138,7 +138,7 @@
             "archived": false,
             "id": 59355182,
             "language": "PHP",
-            "last_commit": "2026-08-25T11:57:23Z",
+            "last_commit": "2026-08-26T13:13:55Z",
             "owner": "OpenSID",
             "repo": "OpenSID",
             "stars": 1222
@@ -153,7 +153,7 @@
             "archived": false,
             "id": 59355182,
             "language": "PHP",
-            "last_commit": "2026-08-25T11:57:23Z",
+            "last_commit": "2026-08-26T13:13:55Z",
             "owner": "OpenSID",
             "repo": "OpenSID",
             "stars": 1222
@@ -258,7 +258,7 @@
             "archived": false,
             "id": 1089623281,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T18:03:28Z",
+            "last_commit": "2026-08-26T02:21:54Z",
             "owner": "Drenzzz",
             "repo": "ADBKit",
             "stars": 336
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 1089623281,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T18:03:28Z",
+            "last_commit": "2026-08-26T02:21:54Z",
             "owner": "Drenzzz",
             "repo": "ADBKit",
             "stars": 336
@@ -288,10 +288,10 @@
             "archived": false,
             "id": 1182108360,
             "language": "Rust",
-            "last_commit": "2026-08-25T18:16:51Z",
+            "last_commit": "2026-08-26T14:12:25Z",
             "owner": "fajarhide",
             "repo": "omni",
-            "stars": 359
+            "stars": 361
           }
         },
         {
@@ -303,10 +303,10 @@
             "archived": false,
             "id": 1182108360,
             "language": "Rust",
-            "last_commit": "2026-08-25T18:16:51Z",
+            "last_commit": "2026-08-26T14:12:25Z",
             "owner": "fajarhide",
             "repo": "omni",
-            "stars": 359
+            "stars": 361
           }
         },
         {
@@ -348,7 +348,7 @@
             "archived": false,
             "id": 1133241492,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:24:06Z",
+            "last_commit": "2026-08-26T18:29:13Z",
             "owner": "gnoviawan",
             "repo": "termul",
             "stars": 225
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 1133241492,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T17:24:06Z",
+            "last_commit": "2026-08-26T18:29:13Z",
             "owner": "gnoviawan",
             "repo": "termul",
             "stars": 225
@@ -408,7 +408,7 @@
             "archived": false,
             "id": 1252865556,
             "language": "Rust",
-            "last_commit": "2026-08-25T18:55:53Z",
+            "last_commit": "2026-08-26T13:16:53Z",
             "owner": "codecoradev",
             "repo": "uteke",
             "stars": 235
@@ -423,7 +423,7 @@
             "archived": false,
             "id": 1252865556,
             "language": "Rust",
-            "last_commit": "2026-08-25T18:55:53Z",
+            "last_commit": "2026-08-26T13:16:53Z",
             "owner": "codecoradev",
             "repo": "uteke",
             "stars": 235
@@ -471,7 +471,7 @@
             "last_commit": "2026-08-20T22:39:49Z",
             "owner": "jipraks",
             "repo": "kasirgratisan",
-            "stars": 123
+            "stars": 124
           }
         },
         {
@@ -516,7 +516,7 @@
             "last_commit": "2026-07-06T04:02:38Z",
             "owner": "adenaufal",
             "repo": "anti-slop-writing",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -531,7 +531,7 @@
             "last_commit": "2026-07-06T04:02:38Z",
             "owner": "adenaufal",
             "repo": "anti-slop-writing",
-            "stars": 116
+            "stars": 117
           }
         },
         {
@@ -618,7 +618,7 @@
             "archived": false,
             "id": 1237164472,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T10:49:46Z",
+            "last_commit": "2026-08-26T06:06:54Z",
             "owner": "IlhamriSKY",
             "repo": "TEDI",
             "stars": 154
@@ -633,7 +633,7 @@
             "archived": false,
             "id": 1237164472,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T10:49:46Z",
+            "last_commit": "2026-08-26T06:06:54Z",
             "owner": "IlhamriSKY",
             "repo": "TEDI",
             "stars": 154
@@ -756,7 +756,7 @@
             "last_commit": "2026-08-22T10:11:01Z",
             "owner": "wauputr4",
             "repo": "bansos",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -771,7 +771,7 @@
             "last_commit": "2026-08-22T10:11:01Z",
             "owner": "wauputr4",
             "repo": "bansos",
-            "stars": 64
+            "stars": 65
           }
         },
         {
@@ -873,10 +873,10 @@
             "archived": false,
             "id": 1253671303,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T21:24:02Z",
+            "last_commit": "2026-08-26T04:31:31Z",
             "owner": "rahmanef63",
             "repo": "mso",
-            "stars": 72
+            "stars": 73
           }
         },
         {
@@ -888,7 +888,7 @@
             "archived": false,
             "id": 1247281541,
             "language": "C#",
-            "last_commit": "2026-08-24T06:57:55Z",
+            "last_commit": "2026-08-26T00:40:53Z",
             "owner": "ardli-firman",
             "repo": "sha-print",
             "stars": 36
@@ -903,7 +903,7 @@
             "archived": false,
             "id": 1247281541,
             "language": "C#",
-            "last_commit": "2026-08-24T06:57:55Z",
+            "last_commit": "2026-08-26T00:40:53Z",
             "owner": "ardli-firman",
             "repo": "sha-print",
             "stars": 36
@@ -1098,7 +1098,7 @@
             "archived": false,
             "id": 1264105561,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:47:53Z",
+            "last_commit": "2026-08-26T08:29:55Z",
             "owner": "RudyCity",
             "repo": "superagent",
             "stars": 20
@@ -1113,7 +1113,7 @@
             "archived": false,
             "id": 1264105561,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T01:47:53Z",
+            "last_commit": "2026-08-26T08:29:55Z",
             "owner": "RudyCity",
             "repo": "superagent",
             "stars": 20
@@ -1158,10 +1158,10 @@
             "archived": false,
             "id": 1224906567,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T02:27:35Z",
+            "last_commit": "2026-08-26T04:28:49Z",
             "owner": "rahmanef63",
             "repo": "open-silong",
-            "stars": 25
+            "stars": 26
           }
         },
         {
@@ -1473,10 +1473,10 @@
             "archived": false,
             "id": 1259342958,
             "language": "Rust",
-            "last_commit": "2026-08-25T15:22:42Z",
+            "last_commit": "2026-08-26T05:31:59Z",
             "owner": "rizukirr",
             "repo": "apic",
-            "stars": 6
+            "stars": 7
           }
         },
         {
@@ -1488,10 +1488,10 @@
             "archived": false,
             "id": 1259342958,
             "language": "Rust",
-            "last_commit": "2026-08-25T15:22:42Z",
+            "last_commit": "2026-08-26T05:31:59Z",
             "owner": "rizukirr",
             "repo": "apic",
-            "stars": 6
+            "stars": 7
           }
         },
         {
@@ -1548,7 +1548,7 @@
             "archived": false,
             "id": 1255938497,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T19:34:02Z",
+            "last_commit": "2026-08-26T21:42:36Z",
             "owner": "raymondchins",
             "repo": "tokengratis-id",
             "stars": 6
@@ -1776,7 +1776,7 @@
             "last_commit": "2026-08-13T01:35:23Z",
             "owner": "codecoradev",
             "repo": "trapfall",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -1791,7 +1791,7 @@
             "last_commit": "2026-08-13T01:35:23Z",
             "owner": "codecoradev",
             "repo": "trapfall",
-            "stars": 5
+            "stars": 6
           }
         },
         {
@@ -1844,7 +1844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T20:00:10.901Z",
+    "last_updated": "2026-08-26T22:30:03.159Z",
     "original_repository": "IndopenSource/awesome-indonesia",
     "original_repository_id": 1266598624,
     "original_repository_sha": "e0dd0e994e52cd89b087be8b3f243f0976b51ce9",
