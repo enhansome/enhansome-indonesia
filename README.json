@@ -12,7 +12,7 @@
             "archived": false,
             "id": 1269000023,
             "language": "Python",
-            "last_commit": "2026-08-26T20:03:07Z",
+            "last_commit": "2026-08-28T02:11:16Z",
             "owner": "IndopenSource",
             "repo": "awesome-indonesia-legacy",
             "stars": 0
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1268999981,
             "language": "Python",
-            "last_commit": "2026-08-26T20:01:17Z",
+            "last_commit": "2026-08-28T02:10:16Z",
             "owner": "IndopenSource",
             "repo": "awesome-indonesia-revival",
             "stars": 0
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-24T15:56:44Z",
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10181
+            "stars": 10184
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-24T15:56:44Z",
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10181
+            "stars": 10184
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2026-08-21T01:38:36Z",
             "owner": "jipraks",
             "repo": "yt-short-clipper",
-            "stars": 972
+            "stars": 975
           }
         },
         {
@@ -186,7 +186,7 @@
             "last_commit": "2026-08-21T01:38:36Z",
             "owner": "jipraks",
             "repo": "yt-short-clipper",
-            "stars": 972
+            "stars": 975
           }
         },
         {
@@ -348,10 +348,10 @@
             "archived": false,
             "id": 1133241492,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:46:08Z",
+            "last_commit": "2026-08-27T20:58:51Z",
             "owner": "gnoviawan",
             "repo": "termul",
-            "stars": 225
+            "stars": 228
           }
         },
         {
@@ -363,10 +363,10 @@
             "archived": false,
             "id": 1133241492,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:46:08Z",
+            "last_commit": "2026-08-27T20:58:51Z",
             "owner": "gnoviawan",
             "repo": "termul",
-            "stars": 225
+            "stars": 228
           }
         },
         {
@@ -471,7 +471,7 @@
             "last_commit": "2026-08-20T22:39:49Z",
             "owner": "jipraks",
             "repo": "kasirgratisan",
-            "stars": 124
+            "stars": 125
           }
         },
         {
@@ -543,7 +543,7 @@
             "archived": false,
             "id": 1254993211,
             "language": "Go",
-            "last_commit": "2026-08-24T03:34:56Z",
+            "last_commit": "2026-08-28T02:35:20Z",
             "owner": "mydisha",
             "repo": "keirouter",
             "stars": 128
@@ -558,7 +558,7 @@
             "archived": false,
             "id": 1254993211,
             "language": "Go",
-            "last_commit": "2026-08-24T03:34:56Z",
+            "last_commit": "2026-08-28T02:35:20Z",
             "owner": "mydisha",
             "repo": "keirouter",
             "stars": 128
@@ -618,7 +618,7 @@
             "archived": false,
             "id": 1237164472,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:15:10Z",
+            "last_commit": "2026-08-28T02:47:09Z",
             "owner": "IlhamriSKY",
             "repo": "TEDI",
             "stars": 154
@@ -633,7 +633,7 @@
             "archived": false,
             "id": 1237164472,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T03:15:10Z",
+            "last_commit": "2026-08-28T02:47:09Z",
             "owner": "IlhamriSKY",
             "repo": "TEDI",
             "stars": 154
@@ -1128,7 +1128,7 @@
             "archived": false,
             "id": 1270257672,
             "language": "Python",
-            "last_commit": "2026-08-27T10:36:42Z",
+            "last_commit": "2026-08-27T16:34:00Z",
             "owner": "MuhammadHasbiAshshiddieqy",
             "repo": "OpenClawn",
             "stars": 16
@@ -1143,7 +1143,7 @@
             "archived": false,
             "id": 1270257672,
             "language": "Python",
-            "last_commit": "2026-08-27T10:36:42Z",
+            "last_commit": "2026-08-27T16:34:00Z",
             "owner": "MuhammadHasbiAshshiddieqy",
             "repo": "OpenClawn",
             "stars": 16
@@ -1473,7 +1473,7 @@
             "archived": false,
             "id": 1259342958,
             "language": "Rust",
-            "last_commit": "2026-08-27T09:14:56Z",
+            "last_commit": "2026-08-27T17:02:52Z",
             "owner": "rizukirr",
             "repo": "apic",
             "stars": 7
@@ -1488,7 +1488,7 @@
             "archived": false,
             "id": 1259342958,
             "language": "Rust",
-            "last_commit": "2026-08-27T09:14:56Z",
+            "last_commit": "2026-08-27T17:02:52Z",
             "owner": "rizukirr",
             "repo": "apic",
             "stars": 7
@@ -1548,7 +1548,7 @@
             "archived": false,
             "id": 1255938497,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T21:42:36Z",
+            "last_commit": "2026-08-28T02:26:46Z",
             "owner": "raymondchins",
             "repo": "tokengratis-id",
             "stars": 6
@@ -1728,7 +1728,7 @@
             "archived": false,
             "id": 1154154700,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T10:36:55Z",
+            "last_commit": "2026-08-27T13:39:17Z",
             "owner": "AdityaZxxx",
             "repo": "sheltermark",
             "stars": 1
@@ -1743,7 +1743,7 @@
             "archived": false,
             "id": 1154154700,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T10:36:55Z",
+            "last_commit": "2026-08-27T13:39:17Z",
             "owner": "AdityaZxxx",
             "repo": "sheltermark",
             "stars": 1
@@ -1844,12 +1844,12 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:55.485Z",
+    "last_updated": "2026-08-28T03:51:35.196Z",
     "original_repository_info": {
       "archived": false,
       "id": 1266598624,
       "language": "Python",
-      "last_commit": "2026-08-26T20:01:53Z",
+      "last_commit": "2026-08-28T02:10:53Z",
       "owner": "IndopenSource",
       "repo": "awesome-indonesia",
       "stars": 88
