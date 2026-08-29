@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Katalog resource dan proyek non-app open source Indonesia.",
+            "homepage": null,
             "id": 1269000023,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-29T01:45:24Z",
+            "open_issues": 0,
             "owner": "IndopenSource",
             "repo": "awesome-indonesia-legacy",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "awesome-list",
+              "indonesia",
+              "legacy",
+              "open-source",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -26,12 +37,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Katalog proyek open source Indonesia yang potensial untuk direvival oleh komunitas.",
+            "homepage": null,
             "id": 1268999981,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-29T01:44:42Z",
+            "open_issues": 0,
             "owner": "IndopenSource",
             "repo": "awesome-indonesia-revival",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "awesome-list",
+              "indonesia",
+              "legacy",
+              "open-source",
+              "revival"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         }
@@ -48,12 +70,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).",
+            "homepage": "https://uaparser.dev/",
             "id": 3320710,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T15:56:44Z",
+            "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10186
+            "stars": 10186,
+            "topics": [
+              "analytics",
+              "bot-detection",
+              "browser-detection",
+              "client-hints",
+              "device-detection",
+              "mobile-detection",
+              "user-agent",
+              "user-agent-parser"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -64,12 +100,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).",
+            "homepage": "https://uaparser.dev/",
             "id": 3320710,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T15:56:44Z",
+            "open_issues": 15,
             "owner": "faisalman",
             "repo": "ua-parser-js",
-            "stars": 10186
+            "stars": 10186,
+            "topics": [
+              "analytics",
+              "bot-detection",
+              "browser-detection",
+              "client-hints",
+              "device-detection",
+              "mobile-detection",
+              "user-agent",
+              "user-agent-parser"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -80,12 +130,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless. ",
+            "homepage": null,
             "id": 44089758,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-06T15:54:23Z",
+            "open_issues": 1,
             "owner": "laravolt",
             "repo": "avatar",
-            "stars": 1982
+            "stars": 1982,
+            "topics": [
+              "avatar",
+              "gravatar",
+              "laravel-package",
+              "php",
+              "php-library"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -96,12 +157,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plug n play avatar, turn name, email, and any other string into beautiful avatar (or gravatar), effortless. ",
+            "homepage": null,
             "id": 44089758,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-06T15:54:23Z",
+            "open_issues": 1,
             "owner": "laravolt",
             "repo": "avatar",
-            "stars": 1982
+            "stars": 1982,
+            "topics": [
+              "avatar",
+              "gravatar",
+              "laravel-package",
+              "php",
+              "php-library"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -112,12 +184,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and fast databaseless PHP blogging platform, and Flat-File CMS",
+            "homepage": "https://www.htmly.com",
             "id": 15427713,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-25T01:00:57Z",
+            "open_issues": 53,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1360
+            "stars": 1360,
+            "topics": [
+              "blog",
+              "blog-engine",
+              "cms",
+              "flat-file",
+              "htmly",
+              "markdown",
+              "php",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -128,12 +214,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and fast databaseless PHP blogging platform, and Flat-File CMS",
+            "homepage": "https://www.htmly.com",
             "id": 15427713,
             "language": "PHP",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-25T01:00:57Z",
+            "open_issues": 53,
             "owner": "danpros",
             "repo": "htmly",
-            "stars": 1360
+            "stars": 1360,
+            "topics": [
+              "blog",
+              "blog-engine",
+              "cms",
+              "flat-file",
+              "htmly",
+              "markdown",
+              "php",
+              "website"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -144,12 +244,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID",
+            "homepage": null,
             "id": 59355182,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T06:14:04Z",
+            "open_issues": 357,
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1221
+            "stars": 1221,
+            "topics": [
+              "opensid",
+              "sistem-informasi-desa"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -160,12 +268,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sistem Informasi Desa (SID) yang sengaja dibuat terbuka agar dapat dikembangkan secara bersama-sama oleh komunitas peduli SID",
+            "homepage": null,
             "id": 59355182,
             "language": "PHP",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T06:14:04Z",
+            "open_issues": 357,
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1221
+            "stars": 1221,
+            "topics": [
+              "opensid",
+              "sistem-informasi-desa"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -176,12 +292,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows desktop app that turns long-form YouTube videos into 9:16 short-form clips — AI highlight detection, face-tracking portrait reframe, and word-by-word captions.",
+            "homepage": null,
             "id": 1134857705,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T01:38:36Z",
+            "open_issues": 0,
             "owner": "jipraks",
             "repo": "yt-short-clipper",
-            "stars": 975
+            "stars": 975,
+            "topics": [
+              "ai-video",
+              "content-creation",
+              "ffmpeg",
+              "instagram-reels",
+              "llm",
+              "mediapipe",
+              "python",
+              "react",
+              "rust",
+              "short-form-video",
+              "tauri",
+              "tauri-app",
+              "tiktok",
+              "typescript",
+              "video-editing",
+              "youtube-shorts",
+              "yt-dlp"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -192,12 +331,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows desktop app that turns long-form YouTube videos into 9:16 short-form clips — AI highlight detection, face-tracking portrait reframe, and word-by-word captions.",
+            "homepage": null,
             "id": 1134857705,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T01:38:36Z",
+            "open_issues": 0,
             "owner": "jipraks",
             "repo": "yt-short-clipper",
-            "stars": 975
+            "stars": 975,
+            "topics": [
+              "ai-video",
+              "content-creation",
+              "ffmpeg",
+              "instagram-reels",
+              "llm",
+              "mediapipe",
+              "python",
+              "react",
+              "rust",
+              "short-form-video",
+              "tauri",
+              "tauri-app",
+              "tiktok",
+              "typescript",
+              "video-editing",
+              "youtube-shorts",
+              "yt-dlp"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -208,12 +370,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.",
+            "homepage": null,
             "id": 63410706,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-03-03T06:32:45Z",
+            "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 675
+            "stars": 675,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -224,12 +391,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Package Laravel yang berisi data Provinsi, Kabupaten/Kota, dan Kecamatan/Desa di seluruh Indonesia.",
+            "homepage": null,
             "id": 63410706,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-03-03T06:32:45Z",
+            "open_issues": 5,
             "owner": "laravolt",
             "repo": "indonesia",
-            "stars": 675
+            "stars": 675,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -240,12 +412,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Open Source Tailwind CSS Component for Sat-set Developers with Zero Configuration, Installation, and Setup",
+            "homepage": "https://jokoui.web.id",
             "id": 1127695991,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-06T06:51:25Z",
+            "open_issues": 9,
             "owner": "rayasabari",
             "repo": "joko-ui",
-            "stars": 414
+            "stars": 414,
+            "topics": [
+              "css",
+              "ui",
+              "ui-components",
+              "ui-design",
+              "ui-framework",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -256,12 +440,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free Open Source Tailwind CSS Component for Sat-set Developers with Zero Configuration, Installation, and Setup",
+            "homepage": "https://jokoui.web.id",
             "id": 1127695991,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-06T06:51:25Z",
+            "open_issues": 9,
             "owner": "rayasabari",
             "repo": "joko-ui",
-            "stars": 414
+            "stars": 414,
+            "topics": [
+              "css",
+              "ui",
+              "ui-components",
+              "ui-design",
+              "ui-framework",
+              "uikit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -272,12 +468,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, modern GUI for ADB, Fastboot and Scrcpy",
+            "homepage": null,
             "id": 1089623281,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:21:17Z",
+            "open_issues": 7,
             "owner": "Drenzzz",
             "repo": "ADBKit",
-            "stars": 338
+            "stars": 338,
+            "topics": [
+              "adb",
+              "fastboot",
+              "go",
+              "react",
+              "scrcpy",
+              "wails",
+              "wails-app"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -288,12 +497,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, modern GUI for ADB, Fastboot and Scrcpy",
+            "homepage": null,
             "id": 1089623281,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T07:21:17Z",
+            "open_issues": 7,
             "owner": "Drenzzz",
             "repo": "ADBKit",
-            "stars": 338
+            "stars": 338,
+            "topics": [
+              "adb",
+              "fastboot",
+              "go",
+              "react",
+              "scrcpy",
+              "wails",
+              "wails-app"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -304,12 +526,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your agent pays twice for output it has already seen. OMNI returns a handle instead: 97.2% off a file read twice. Nothing deleted, nothing invented.",
+            "homepage": "https://omni.weekndlabs.com/docs",
             "id": 1182108360,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T14:12:25Z",
+            "open_issues": 11,
             "owner": "fajarhide",
             "repo": "omni",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "antigravity",
+              "claude-code",
+              "cli",
+              "context-compression",
+              "context-distillation",
+              "context-engineering",
+              "cost-reduction",
+              "cursor",
+              "developer-tools",
+              "homebrew",
+              "hooks",
+              "llm",
+              "mcp",
+              "memory",
+              "prompt-caching",
+              "rust",
+              "token-efficiency",
+              "token-optimization"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -320,12 +568,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your agent pays twice for output it has already seen. OMNI returns a handle instead: 97.2% off a file read twice. Nothing deleted, nothing invented.",
+            "homepage": "https://omni.weekndlabs.com/docs",
             "id": 1182108360,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T14:12:25Z",
+            "open_issues": 11,
             "owner": "fajarhide",
             "repo": "omni",
-            "stars": 361
+            "stars": 361,
+            "topics": [
+              "agentic-ai",
+              "ai-agents",
+              "antigravity",
+              "claude-code",
+              "cli",
+              "context-compression",
+              "context-distillation",
+              "context-engineering",
+              "cost-reduction",
+              "cursor",
+              "developer-tools",
+              "homebrew",
+              "hooks",
+              "llm",
+              "mcp",
+              "memory",
+              "prompt-caching",
+              "rust",
+              "token-efficiency",
+              "token-optimization"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -336,12 +610,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
+            "homepage": "https://www.erdbuilderpro.com",
             "id": 1195674112,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T09:47:08Z",
+            "open_issues": 0,
             "owner": "hadziqmtqn",
             "repo": "erd-builder-pro",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "coding",
+              "data-engineering",
+              "data-visualization",
+              "database",
+              "developer-tools",
+              "devtools",
+              "drawing-app",
+              "erd-diagram",
+              "excalidraw",
+              "productivity",
+              "tiptap-editor"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -352,12 +643,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ERD Builder Pro is a database design and documentation tool for developers. Build ERDs, flowcharts, notes, and drawings — all in one workspace",
+            "homepage": "https://www.erdbuilderpro.com",
             "id": 1195674112,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T09:47:08Z",
+            "open_issues": 0,
             "owner": "hadziqmtqn",
             "repo": "erd-builder-pro",
-            "stars": 201
+            "stars": 201,
+            "topics": [
+              "coding",
+              "data-engineering",
+              "data-visualization",
+              "database",
+              "developer-tools",
+              "devtools",
+              "drawing-app",
+              "erd-diagram",
+              "excalidraw",
+              "productivity",
+              "tiptap-editor"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -368,12 +676,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+            "homepage": "https://termul.dev",
             "id": 1133241492,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:58:51Z",
+            "open_issues": 45,
             "owner": "gnoviawan",
             "repo": "termul",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "cross-platform",
+              "desktop-app",
+              "developer-tools",
+              "open-source",
+              "productivity",
+              "react",
+              "rust",
+              "shell",
+              "tauri",
+              "tauri-app",
+              "terminal",
+              "terminal-emulator",
+              "workspace-manager"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -384,12 +711,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Termul is Terminal Ultimate Manager a cross-platform desktop terminal manager built with Tauri and React. Organize terminals by workspace with persistent sessions, multiple shell, split panes, embedded browser tabs, and a built-in code & markdown editor.",
+            "homepage": "https://termul.dev",
             "id": 1133241492,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:58:51Z",
+            "open_issues": 45,
             "owner": "gnoviawan",
             "repo": "termul",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "cross-platform",
+              "desktop-app",
+              "developer-tools",
+              "open-source",
+              "productivity",
+              "react",
+              "rust",
+              "shell",
+              "tauri",
+              "tauri-app",
+              "terminal",
+              "terminal-emulator",
+              "workspace-manager"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -400,12 +746,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1275136334,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-26T05:38:51Z",
+            "open_issues": 0,
             "owner": "mallexibra-dev",
             "repo": "clipforge",
-            "stars": 178
+            "stars": 178,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -416,12 +767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Online banking angular springboot mysql",
+            "homepage": null,
             "id": 143733672,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-08-27T11:22:57Z",
+            "open_issues": 1,
             "owner": "hendisantika",
             "repo": "Online-banking-angular-springboot-mysql",
-            "stars": 131
+            "stars": 131,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -432,12 +788,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust binary, zero config, fully offline.",
+            "homepage": "https://codecora.dev",
             "id": 1252865556,
             "language": "Rust",
-            "last_commit": "2026-08-29T00:32:16Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:58:19Z",
+            "open_issues": 8,
             "owner": "codecoradev",
             "repo": "uteke",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "agent-memory",
+              "ai",
+              "ai-agents",
+              "cli",
+              "cli-tool",
+              "embeddings",
+              "hnsw",
+              "llm",
+              "local-first",
+              "mcp",
+              "mcp-server",
+              "memory",
+              "offline-first",
+              "onnx",
+              "onnxruntime",
+              "rag",
+              "rust",
+              "semantic-search",
+              "sqlite",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -448,12 +830,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🧠 The Brain for Your AI — Local-first memory engine for AI agents. Store, recall, and search memories with semantic embeddings. Single Rust binary, zero config, fully offline.",
+            "homepage": "https://codecora.dev",
             "id": 1252865556,
             "language": "Rust",
-            "last_commit": "2026-08-29T00:32:16Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:58:19Z",
+            "open_issues": 8,
             "owner": "codecoradev",
             "repo": "uteke",
-            "stars": 235
+            "stars": 235,
+            "topics": [
+              "agent-memory",
+              "ai",
+              "ai-agents",
+              "cli",
+              "cli-tool",
+              "embeddings",
+              "hnsw",
+              "llm",
+              "local-first",
+              "mcp",
+              "mcp-server",
+              "memory",
+              "offline-first",
+              "onnx",
+              "onnxruntime",
+              "rag",
+              "rust",
+              "semantic-search",
+              "sqlite",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -464,12 +872,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Python 3 API wrapper to retrieve data from PDDIKTI Kemdikbudristek.",
+            "homepage": "https://pddikti.kemdiktisaintek.go.id/",
             "id": 360081221,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T02:52:54Z",
+            "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "api-wrapper",
+              "package",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -480,12 +897,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unofficial Python 3 API wrapper to retrieve data from PDDIKTI Kemdikbudristek.",
+            "homepage": "https://pddikti.kemdiktisaintek.go.id/",
             "id": 360081221,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T02:52:54Z",
+            "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "PDDIKTI-kemdikbud-API",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "api-wrapper",
+              "package",
+              "python3"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -496,12 +922,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Free, Open Source, Offline Point of Sales Apps",
+            "homepage": null,
             "id": 1156182250,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T22:39:49Z",
+            "open_issues": 6,
             "owner": "jipraks",
             "repo": "kasirgratisan",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -512,12 +943,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IndoGitHubers is an application that displays the GitHub rank of users in Indonesia.",
+            "homepage": "https://indogithubers.net",
             "id": 687474774,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T07:30:46Z",
+            "open_issues": 8,
             "owner": "depapp",
             "repo": "IndoGitHubers",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest-starter",
+              "hacktoberfest2023"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -528,12 +969,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IndoGitHubers is an application that displays the GitHub rank of users in Indonesia.",
+            "homepage": "https://indogithubers.net",
             "id": 687474774,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T07:30:46Z",
+            "open_issues": 8,
             "owner": "depapp",
             "repo": "IndoGitHubers",
-            "stars": 97
+            "stars": 97,
+            "topics": [
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "hacktoberfest-starter",
+              "hacktoberfest2023"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -544,12 +995,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stop your AI from writing like AI. A universal system prompt eliminating every known LLM style tell — works with Claude Code, Gemini CLI, Codex CLI, Copilot, Cursor, and any web AI.",
+            "homepage": null,
             "id": 1169508114,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-06T04:02:38Z",
+            "open_issues": 0,
             "owner": "adenaufal",
             "repo": "anti-slop-writing",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "agent-skill",
+              "ai",
+              "ai-detection",
+              "anti-slop",
+              "authentic-writing",
+              "chatgpt",
+              "claude",
+              "content-writing",
+              "copilot",
+              "gemini",
+              "llm",
+              "prompt-engineering",
+              "system-prompt",
+              "writing",
+              "writing-style"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -560,12 +1032,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stop your AI from writing like AI. A universal system prompt eliminating every known LLM style tell — works with Claude Code, Gemini CLI, Codex CLI, Copilot, Cursor, and any web AI.",
+            "homepage": null,
             "id": 1169508114,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-06T04:02:38Z",
+            "open_issues": 0,
             "owner": "adenaufal",
             "repo": "anti-slop-writing",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "agent-skill",
+              "ai",
+              "ai-detection",
+              "anti-slop",
+              "authentic-writing",
+              "chatgpt",
+              "claude",
+              "content-writing",
+              "copilot",
+              "gemini",
+              "llm",
+              "prompt-engineering",
+              "system-prompt",
+              "writing",
+              "writing-style"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -576,12 +1069,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your friendly, blazing-fast, self-hostable AI gateway",
+            "homepage": "https://keirouter.app",
             "id": 1254993211,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:35:20Z",
+            "open_issues": 2,
             "owner": "mydisha",
             "repo": "keirouter",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "ai",
+              "ai-gateway",
+              "ai-router",
+              "anthropic",
+              "caveman",
+              "claude",
+              "claude-code",
+              "cursor",
+              "deepseek",
+              "glm",
+              "headroom",
+              "kiro",
+              "llm-gateway",
+              "openai",
+              "qoder",
+              "qwen",
+              "rtk",
+              "zai"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -592,12 +1109,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your friendly, blazing-fast, self-hostable AI gateway",
+            "homepage": "https://keirouter.app",
             "id": 1254993211,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:35:20Z",
+            "open_issues": 2,
             "owner": "mydisha",
             "repo": "keirouter",
-            "stars": 128
+            "stars": 128,
+            "topics": [
+              "ai",
+              "ai-gateway",
+              "ai-router",
+              "anthropic",
+              "caveman",
+              "claude",
+              "claude-code",
+              "cursor",
+              "deepseek",
+              "glm",
+              "headroom",
+              "kiro",
+              "llm-gateway",
+              "openai",
+              "qoder",
+              "qwen",
+              "rtk",
+              "zai"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -608,12 +1149,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of accessible and composable Audio UI components.",
+            "homepage": "https://svelte-audio-ui.vercel.app/",
             "id": 1184292017,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-08-11T23:00:21Z",
+            "open_issues": 11,
             "owner": "ddtamn",
             "repo": "svelte-audio-ui",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "audio",
+              "audio-player",
+              "audio-ui",
+              "shadcn-svelte",
+              "svelte-5",
+              "svelte-components",
+              "sveltekit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -624,12 +1178,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of accessible and composable Audio UI components.",
+            "homepage": "https://svelte-audio-ui.vercel.app/",
             "id": 1184292017,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-08-11T23:00:21Z",
+            "open_issues": 11,
             "owner": "ddtamn",
             "repo": "svelte-audio-ui",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "audio",
+              "audio-player",
+              "audio-ui",
+              "shadcn-svelte",
+              "svelte-5",
+              "svelte-components",
+              "sveltekit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -640,12 +1207,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The backend of NjinAttend is built using AdonisJS.",
+            "homepage": null,
             "id": 695664072,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-10-04T21:50:13Z",
+            "open_issues": 0,
             "owner": "njinlabs",
             "repo": "njinattend-backend",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -656,12 +1228,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal Director. One lightweight app, eight features, your whole dev workflow in a single window.",
+            "homepage": "https://tedi.ilhamriski.com",
             "id": 1237164472,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T02:47:09Z",
+            "open_issues": 1,
             "owner": "IlhamriSKY",
             "repo": "TEDI",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "claude-code",
+              "cmd",
+              "code-editor",
+              "codex",
+              "open-source",
+              "opencode",
+              "powershell",
+              "rust",
+              "sftp",
+              "source-control",
+              "ssh",
+              "tauri",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -672,12 +1265,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminal Director. One lightweight app, eight features, your whole dev workflow in a single window.",
+            "homepage": "https://tedi.ilhamriski.com",
             "id": 1237164472,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T02:47:09Z",
+            "open_issues": 1,
             "owner": "IlhamriSKY",
             "repo": "TEDI",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "claude-code",
+              "cmd",
+              "code-editor",
+              "codex",
+              "open-source",
+              "opencode",
+              "powershell",
+              "rust",
+              "sftp",
+              "source-control",
+              "ssh",
+              "tauri",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -688,12 +1302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Durable agent runtime. Sessions survive crashes. Agents are just files. One binary, zero dependencies.",
+            "homepage": "http://docs.duragent.ai/",
             "id": 1132035514,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-18T08:47:11Z",
+            "open_issues": 0,
             "owner": "giosakti",
             "repo": "duragent",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -704,12 +1323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Durable agent runtime. Sessions survive crashes. Agents are just files. One binary, zero dependencies.",
+            "homepage": "http://docs.duragent.ai/",
             "id": 1132035514,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-18T08:47:11Z",
+            "open_issues": 0,
             "owner": "giosakti",
             "repo": "duragent",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -720,12 +1344,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AndKasir merupakan aplikasi open source yang dibangun dengan bahasa pemrograman Java untuk kebutuhan retail perusahaan menengah dalam mengatur aktifitas barang masuk dan keluar. konsultasi isu, instalasi dan penambahan fitur silahkan kirim email ke irwan@andriawan.com",
+            "homepage": null,
             "id": 92071617,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-16T15:24:01Z",
+            "open_issues": 2,
             "owner": "andriawan",
             "repo": "AndKasir",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "java",
+              "kasir",
+              "point-of-sale"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -736,12 +1369,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Omnidrive lets you connect multiple Google Drive accounts and manage all your files from a single dashboard. It runs entirely on Cloudflare's edge network — Workers for the API, D1 for the database, and KV for session storage — so there's no traditional server to maintain.",
+            "homepage": null,
             "id": 1262163537,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-24T03:36:32Z",
+            "open_issues": 0,
             "owner": "abilfida",
             "repo": "OmniDrive",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "cloudflare",
+              "google-drive",
+              "reactjs",
+              "vitejs"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -752,12 +1395,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Omnidrive lets you connect multiple Google Drive accounts and manage all your files from a single dashboard. It runs entirely on Cloudflare's edge network — Workers for the API, D1 for the database, and KV for session storage — so there's no traditional server to maintain.",
+            "homepage": null,
             "id": 1262163537,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-24T03:36:32Z",
+            "open_issues": 0,
             "owner": "abilfida",
             "repo": "OmniDrive",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "cloudflare",
+              "google-drive",
+              "reactjs",
+              "vitejs"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -768,12 +1421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic QRIS Python-based generator program.",
+            "homepage": null,
             "id": 1272926907,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-20T14:24:38Z",
+            "open_issues": 0,
             "owner": "mmenghancurkan",
             "repo": "dynaQRIS",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -784,12 +1442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic QRIS Python-based generator program.",
+            "homepage": null,
             "id": 1272926907,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-20T14:24:38Z",
+            "open_issues": 0,
             "owner": "mmenghancurkan",
             "repo": "dynaQRIS",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -800,12 +1463,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bansos.dev — Promo developer Indonesia: domain gratis, AI credits, cloud credits, hosting free-tier, API credits, database credits, startup credits, diskon tools coding & hosting gratis. Open source.",
+            "homepage": "https://bansos.dev",
             "id": 1266283205,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-08-22T10:11:01Z",
+            "open_issues": 8,
             "owner": "wauputr4",
             "repo": "bansos",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "bansos",
+              "cli",
+              "cloudflare-pages",
+              "developer-resources",
+              "developer-tools",
+              "freebies",
+              "indonesia",
+              "open-source",
+              "static-site",
+              "sveltekit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -816,12 +1495,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bansos.dev — Promo developer Indonesia: domain gratis, AI credits, cloud credits, hosting free-tier, API credits, database credits, startup credits, diskon tools coding & hosting gratis. Open source.",
+            "homepage": "https://bansos.dev",
             "id": 1266283205,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-08-22T10:11:01Z",
+            "open_issues": 8,
             "owner": "wauputr4",
             "repo": "bansos",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "bansos",
+              "cli",
+              "cloudflare-pages",
+              "developer-resources",
+              "developer-tools",
+              "freebies",
+              "indonesia",
+              "open-source",
+              "static-site",
+              "sveltekit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -832,12 +1527,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stop your coding agent reading the wrong files. Compiler-grade TS/JS repo map — 100% precision on blast radius vs grep's 60%, measured on public repos. CLI + MCP server, fully local, no vector DB.",
+            "homepage": null,
             "id": 1268307016,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T09:34:30Z",
+            "open_issues": 3,
             "owner": "raymondchins",
             "repo": "agentmap",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "ai-agents",
+              "ai-coding",
+              "claude-code",
+              "cli",
+              "code-context",
+              "code-graph",
+              "code-intelligence",
+              "code-map",
+              "coding-agent",
+              "context-engineering",
+              "dependency-graph",
+              "developer-tools",
+              "javascript",
+              "mcp",
+              "mcp-server",
+              "pagerank",
+              "repo-map",
+              "static-analysis",
+              "ts-morph",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -848,12 +1569,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stop your coding agent reading the wrong files. Compiler-grade TS/JS repo map — 100% precision on blast radius vs grep's 60%, measured on public repos. CLI + MCP server, fully local, no vector DB.",
+            "homepage": null,
             "id": 1268307016,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T09:34:30Z",
+            "open_issues": 3,
             "owner": "raymondchins",
             "repo": "agentmap",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "ai-agents",
+              "ai-coding",
+              "claude-code",
+              "cli",
+              "code-context",
+              "code-graph",
+              "code-intelligence",
+              "code-map",
+              "coding-agent",
+              "context-engineering",
+              "dependency-graph",
+              "developer-tools",
+              "javascript",
+              "mcp",
+              "mcp-server",
+              "pagerank",
+              "repo-map",
+              "static-analysis",
+              "ts-morph",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -864,12 +1611,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DNS Pemblokir Judol, Iklan & Tracker",
+            "homepage": "https://dns.akbxr.com",
             "id": 990411912,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-01T07:43:03Z",
+            "open_issues": 17,
             "owner": "akbxr",
             "repo": "dns",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "adblock",
+              "dns",
+              "dns-over-https",
+              "dns-over-tls",
+              "doh",
+              "judol"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -880,12 +1639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Its Factorio for coding agents",
+            "homepage": null,
             "id": 1247181447,
             "language": "Ruby",
-            "last_commit": "2026-08-28T07:28:20Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:34:56Z",
+            "open_issues": 4,
             "owner": "firewalker06",
             "repo": "tycho",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -896,12 +1660,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Its Factorio for coding agents",
+            "homepage": null,
             "id": 1247181447,
             "language": "Ruby",
-            "last_commit": "2026-08-28T07:28:20Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:34:56Z",
+            "open_issues": 4,
             "owner": "firewalker06",
             "repo": "tycho",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -912,12 +1681,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ultra-lightweight, privacy-first, and self-hosted Disqus alternative",
+            "homepage": "https://diskus.pages.dev",
             "id": 1260658664,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T02:24:00Z",
+            "open_issues": 0,
             "owner": "fadhilbarkah",
             "repo": "diskus",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "blog-comments",
+              "comment",
+              "comment-system",
+              "comments",
+              "comments-system",
+              "comments-widget",
+              "disqus-alternative",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -928,12 +1711,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser-based graphical shell and control plane for a Linux server you own — real terminal, file manager, live metrics and BYOK AI in one mobile-first workspace. Next.js 16 · React 19 · node-pty · Tailwind v4 · shadcn/ui. Public alpha, self-hosted.",
+            "homepage": "https://mso.rahmanef.com",
             "id": 1253671303,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:16:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:10:23Z",
+            "open_issues": 11,
             "owner": "rahmanef63",
             "repo": "mso",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "browser-shell",
+              "control-plane",
+              "file-manager",
+              "homelab",
+              "mobile-first",
+              "nextjs",
+              "pty",
+              "react",
+              "self-hosted",
+              "server-management",
+              "shadcn-ui",
+              "sysadmin",
+              "tailwindcss",
+              "terminal",
+              "typescript",
+              "vps",
+              "web-desktop",
+              "web-terminal"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -944,12 +1751,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Simplest & Most Reliable LAN / Cross-VLAN Virtual Printer Sharing Solution for Windows",
+            "homepage": null,
             "id": 1247281541,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-08-27T04:59:05Z",
+            "open_issues": 2,
             "owner": "ardli-firman",
             "repo": "sha-print",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "desktop-app",
+              "printer",
+              "sharing",
+              "sharing-printer",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -960,12 +1778,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Simplest & Most Reliable LAN / Cross-VLAN Virtual Printer Sharing Solution for Windows",
+            "homepage": null,
             "id": 1247281541,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-08-27T04:59:05Z",
+            "open_issues": 2,
             "owner": "ardli-firman",
             "repo": "sha-print",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "desktop-app",
+              "printer",
+              "sharing",
+              "sharing-printer",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -976,12 +1805,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn your AI assistant into a tutor. It plans, shows code, reviews, adapts to how you learn and helps you complete your real project on your own",
+            "homepage": null,
             "id": 1206142707,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-12T15:10:29Z",
+            "open_issues": 0,
             "owner": "rizukirr",
             "repo": "no-vibe",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "learning",
+              "llm",
+              "mentor",
+              "opencode",
+              "plugin",
+              "study",
+              "tutor",
+              "vibe-coding",
+              "vibecoding"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -992,12 +1839,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn your AI assistant into a tutor. It plans, shows code, reviews, adapts to how you learn and helps you complete your real project on your own",
+            "homepage": null,
             "id": 1206142707,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-06-12T15:10:29Z",
+            "open_issues": 0,
             "owner": "rizukirr",
             "repo": "no-vibe",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "ai-agents",
+              "claude-code",
+              "codex",
+              "learning",
+              "llm",
+              "mentor",
+              "opencode",
+              "plugin",
+              "study",
+              "tutor",
+              "vibe-coding",
+              "vibecoding"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1008,12 +1873,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Payment router for Indonesian payment gateways.",
+            "homepage": "http://rutebayar.id/",
             "id": 1229370618,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:43:51Z",
+            "open_issues": 22,
             "owner": "pendig",
             "repo": "rute-bayar",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "cli",
+              "go",
+              "indonesia",
+              "midtrans",
+              "payment-gateway",
+              "payment-router",
+              "sqlite",
+              "webhook",
+              "xendit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1024,12 +1904,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Payment router for Indonesian payment gateways.",
+            "homepage": "http://rutebayar.id/",
             "id": 1229370618,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-28T22:43:51Z",
+            "open_issues": 22,
             "owner": "pendig",
             "repo": "rute-bayar",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "cli",
+              "go",
+              "indonesia",
+              "midtrans",
+              "payment-gateway",
+              "payment-router",
+              "sqlite",
+              "webhook",
+              "xendit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1040,12 +1935,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A beautiful Terminal UI for launching multiple AI providers from a single command",
+            "homepage": null,
             "id": 1118354129,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2025-12-27T17:13:26Z",
+            "open_issues": 0,
             "owner": "galpratama",
             "repo": "agent-cli",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1056,12 +1956,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NATS | Open Source Business and Accounting Software",
+            "homepage": "https://maziyank.github.io/nats",
             "id": 1195300692,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-15T04:08:04Z",
+            "open_issues": 0,
             "owner": "maziyank",
             "repo": "nats",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1072,12 +1977,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "You Need This Kit - Type-safe Starter: REST API boilerplate that ships with User Management, Role Management, and Authentication with JWTs, Prisma ORM, and PostgreSQL",
+            "homepage": null,
             "id": 1204734828,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-08T09:29:42Z",
+            "open_issues": 0,
             "owner": "rayasabari",
             "repo": "yntk-ts",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1088,12 +1998,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mandum Rimba is an independent, nonprofit public-interest observatory. We do not sell data, carry advertising, or take sides. We consolidate satellite data and credible public sources into a single open map, auditable by anyone, fully open source, and with every figure traceable to its origin.",
+            "homepage": "https://www.mandumrimba.org",
             "id": 1268924152,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T02:51:56Z",
+            "open_issues": 0,
             "owner": "ammar-rasyidi",
             "repo": "mandum-rimba",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "conservation",
+              "environment",
+              "forest",
+              "geospatial",
+              "indonesia",
+              "maplibre",
+              "mongodb",
+              "nestjs",
+              "nextjs",
+              "open-data",
+              "open-source",
+              "pmtiles",
+              "wildlife"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1104,12 +2033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://warungos.vercel.app",
             "id": 1194387658,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-21T16:51:06Z",
+            "open_issues": 1,
             "owner": "RafiulM",
             "repo": "warungos",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1120,12 +2054,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile-first PWA for driving a single VPS from the browser — up to 16 concurrent terminals, AI agent launchers, host ops and audit behind one shared secret on a Tailscale-only domain. Next.js 15 · React 19 · Node agent (node-pty + xterm.js).",
+            "homepage": null,
             "id": 1187264213,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T16:08:01Z",
+            "open_issues": 0,
             "owner": "rahmanef63",
             "repo": "control-room",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "ai-agents",
+              "devops",
+              "mobile-first",
+              "nextjs",
+              "nodejs",
+              "pty",
+              "pwa",
+              "self-hosted",
+              "terminal",
+              "tmux-alternative",
+              "vps",
+              "xterm"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1136,12 +2088,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient, Opinionated vibe-coding pipeline for CC / Codex / OpenCode / Gemini",
+            "homepage": null,
             "id": 1217129907,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T12:47:28Z",
+            "open_issues": 0,
             "owner": "rizukirr",
             "repo": "vibekit",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "claude-code",
+              "claude-plugin",
+              "codex",
+              "codex-plugin",
+              "opencode",
+              "opencode-plugin",
+              "pi-mono",
+              "plugin",
+              "vibe-coding",
+              "vibecoding"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1152,12 +2120,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient, Opinionated vibe-coding pipeline for CC / Codex / OpenCode / Gemini",
+            "homepage": null,
             "id": 1217129907,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T12:47:28Z",
+            "open_issues": 0,
             "owner": "rizukirr",
             "repo": "vibekit",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "claude-code",
+              "claude-plugin",
+              "codex",
+              "codex-plugin",
+              "opencode",
+              "opencode-plugin",
+              "pi-mono",
+              "plugin",
+              "vibe-coding",
+              "vibecoding"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1168,12 +2152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive, terminal-based AI coding assistant featuring a cyberpunk style terminal UI, context token tracking, and subagent orchestration.",
+            "homepage": null,
             "id": 1264105561,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:59:50Z",
+            "open_issues": 0,
             "owner": "RudyCity",
             "repo": "superagent",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1184,12 +2173,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An interactive, terminal-based AI coding assistant featuring a cyberpunk style terminal UI, context token tracking, and subagent orchestration.",
+            "homepage": null,
             "id": 1264105561,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:59:50Z",
+            "open_issues": 0,
             "owner": "RudyCity",
             "repo": "superagent",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1200,12 +2194,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, safe, self-improving multi-role AI agent framework. Hybrid local + cloud LLMs with self-calibrating routing, decaying skills, and confidence-gated learning — 25 sandboxed tools for code, data, docs, git, and the web.",
+            "homepage": null,
             "id": 1270257672,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:34:00Z",
+            "open_issues": 0,
             "owner": "MuhammadHasbiAshshiddieqy",
             "repo": "OpenClawn",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1216,12 +2215,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, safe, self-improving multi-role AI agent framework. Hybrid local + cloud LLMs with self-calibrating routing, decaying skills, and confidence-gated learning — 25 sandboxed tools for code, data, docs, git, and the web.",
+            "homepage": null,
             "id": 1270257672,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T16:34:00Z",
+            "open_issues": 0,
             "owner": "MuhammadHasbiAshshiddieqy",
             "repo": "OpenClawn",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1232,12 +2236,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source, self-hostable Notion/Obsidian-style workspace — block editor for notes, docs and lightweight databases, plus a knowledge graph over them. Next.js 16 · React 19 · Convex · Tailwind v4.",
+            "homepage": "https://silong-os.vercel.app/",
             "id": 1224906567,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T04:28:49Z",
+            "open_issues": 0,
             "owner": "rahmanef63",
             "repo": "open-silong",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "block-editor",
+              "convex",
+              "indonesia",
+              "knowledge-graph",
+              "nextjs",
+              "notion-alternative",
+              "notion-clone",
+              "open-source",
+              "react",
+              "self-hosted",
+              "tailwindcss",
+              "typescript",
+              "workspace"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1248,12 +2271,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A daily prayer notification daemon for Muslims on Windows and Linux, supporting 21 global standard calculation methods, all madzhab, all country.",
+            "homepage": "https://muslimtify.vercel.app",
             "id": 1164802750,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-23T05:43:16Z",
+            "open_issues": 0,
             "owner": "muslimtify-org",
             "repo": "muslimtify",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "c-language",
+              "cross-platform",
+              "daemon",
+              "linux",
+              "muslim-prayer-times",
+              "muslims-prayer",
+              "notification",
+              "systemd",
+              "windows",
+              "windows-app",
+              "windows-desktop"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1264,12 +2304,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A daily prayer notification daemon for Muslims on Windows and Linux, supporting 21 global standard calculation methods, all madzhab, all country.",
+            "homepage": "https://muslimtify.vercel.app",
             "id": 1164802750,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-23T05:43:16Z",
+            "open_issues": 0,
             "owner": "muslimtify-org",
             "repo": "muslimtify",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "c-language",
+              "cross-platform",
+              "daemon",
+              "linux",
+              "muslim-prayer-times",
+              "muslims-prayer",
+              "notification",
+              "systemd",
+              "windows",
+              "windows-app",
+              "windows-desktop"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1280,12 +2337,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands — GitHub + Convex (self-hosted & Cloud) + Dokploy + Vercel + Hostinger DNS, source to verified live URL. Node ≥18, no runtime dependencies. 8 skills implemented, 5 stubs.",
+            "homepage": null,
             "id": 1185590962,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:51:27Z",
+            "open_issues": 1,
             "owner": "rahmanef63",
             "repo": "si-coder-agent",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "claude-skills",
+              "convex",
+              "deployment-automation",
+              "devops",
+              "dokploy",
+              "hostinger",
+              "nextjs",
+              "self-hosted",
+              "vercel",
+              "zero-human"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1296,12 +2371,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, lightweight NumPy-like N-dimensional tensor library in C, built for high-performance scientific computing and AI workloads.",
+            "homepage": null,
             "id": 1179712121,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-06-16T16:14:20Z",
+            "open_issues": 0,
             "owner": "rizukirr",
             "repo": "numc",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "asm",
+              "blas",
+              "c-language",
+              "matrix-multiplication",
+              "numerical-computation",
+              "numpy",
+              "openblas",
+              "scientific-computing",
+              "simd",
+              "tensor"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1312,12 +2403,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal aesthetic arch linux + hyprland dotfiles",
+            "homepage": null,
             "id": 1069638479,
             "language": "Shell",
-            "last_commit": "2026-08-28T17:14:57Z",
+            "license": null,
+            "last_commit": "2026-08-29T03:20:44Z",
+            "open_issues": 0,
             "owner": "rizukirr",
             "repo": "hyprsimple",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "arch-linux",
+              "dotfiles",
+              "hyprland",
+              "hyprland-config",
+              "linux",
+              "omarchy"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1328,12 +2431,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal aesthetic arch linux + hyprland dotfiles",
+            "homepage": null,
             "id": 1069638479,
             "language": "Shell",
-            "last_commit": "2026-08-28T17:14:57Z",
+            "license": null,
+            "last_commit": "2026-08-29T03:20:44Z",
+            "open_issues": 0,
             "owner": "rizukirr",
             "repo": "hyprsimple",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "arch-linux",
+              "dotfiles",
+              "hyprland",
+              "hyprland-config",
+              "linux",
+              "omarchy"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1344,12 +2459,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1255200456,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-11T16:34:43Z",
+            "open_issues": 0,
             "owner": "ahmadghaisanfad2",
             "repo": "absen-kelas",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1360,12 +2480,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1255200456,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-11T16:34:43Z",
+            "open_issues": 0,
             "owner": "ahmadghaisanfad2",
             "repo": "absen-kelas",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1376,12 +2501,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unlock Your Claude Code for Any LLM",
+            "homepage": null,
             "id": 1191627761,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-03T11:25:37Z",
+            "open_issues": 1,
             "owner": "fajarhide",
             "repo": "heimsense",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "antrophic",
+              "api-adapter",
+              "claude-code",
+              "cli",
+              "deepseek",
+              "golang",
+              "groq",
+              "llm",
+              "openai",
+              "proxy"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1392,12 +2533,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unlock Your Claude Code for Any LLM",
+            "homepage": null,
             "id": 1191627761,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-03T11:25:37Z",
+            "open_issues": 1,
             "owner": "fajarhide",
             "repo": "heimsense",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "antrophic",
+              "api-adapter",
+              "claude-code",
+              "cli",
+              "deepseek",
+              "golang",
+              "groq",
+              "llm",
+              "openai",
+              "proxy"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1408,12 +2565,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An event-sourced knowledge runtime for coding agents.",
+            "homepage": null,
             "id": 1256762986,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T14:42:26Z",
+            "open_issues": 0,
             "owner": "xpajonx",
             "repo": "openempiric",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "agent-memory",
+              "agentic-ai",
+              "ai-agents",
+              "context-engineering",
+              "developer-tools",
+              "event-sourcing",
+              "knowledge-engine",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-runtime",
+              "local-first",
+              "mcp",
+              "organizational-learning",
+              "python",
+              "semantic-search"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1424,12 +2602,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An event-sourced knowledge runtime for coding agents.",
+            "homepage": null,
             "id": 1256762986,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-12T14:42:26Z",
+            "open_issues": 0,
             "owner": "xpajonx",
             "repo": "openempiric",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "agent-memory",
+              "agentic-ai",
+              "ai-agents",
+              "context-engineering",
+              "developer-tools",
+              "event-sourcing",
+              "knowledge-engine",
+              "knowledge-graph",
+              "knowledge-management",
+              "knowledge-runtime",
+              "local-first",
+              "mcp",
+              "organizational-learning",
+              "python",
+              "semantic-search"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1440,12 +2639,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1240384400,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-05-21T12:29:21Z",
+            "open_issues": 0,
             "owner": "hellodit",
             "repo": "OpenMasjid",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1456,12 +2660,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "App Permission Analyzer is a local first Android app for reviewing installed apps and APK files before you trust them. It explain requested permission in plain language, detect common tracker SDK signature, highlight risky permission combination, and generate a simple privacy score.",
+            "homepage": "https://play.google.com/store/apps/details?id=id.biz.rrndev.appanalyzer",
             "id": 1247370739,
             "language": "Kotlin",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-23T13:14:20Z",
+            "open_issues": 0,
             "owner": "RRNDev",
             "repo": "app-permission-analyzer",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "android",
+              "kotlin",
+              "privacy",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1472,12 +2686,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1131236713,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-29T08:39:29Z",
+            "open_issues": 1,
             "owner": "sipamungkas",
             "repo": "subtrack",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1488,12 +2707,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser-based 3D camera previsualization and shot planner — design scenes, frames, angles, lenses and moves, then export platform-tuned prompts for AI video models. Next.js 16 · React 19 · Three.js · Convex.",
+            "homepage": "https://frame-pilot.rahmanef.com/",
             "id": 1296557779,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-02T10:08:50Z",
+            "open_issues": 0,
             "owner": "rahmanef63",
             "repo": "framepilot",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ai-video",
+              "camera",
+              "cinematography",
+              "convex",
+              "nextjs",
+              "previsualization",
+              "prompt-engineering",
+              "shot-planner",
+              "storyboard",
+              "text-to-video",
+              "threejs",
+              "typescript",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1504,12 +2742,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source GOLANG wbe framework with Codeigniter Flavour",
+            "homepage": "https://goigniter.semut.dev",
             "id": 1131962459,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-01T07:37:18Z",
+            "open_issues": 0,
             "owner": "semutdev",
             "repo": "goigniter",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ci3",
+              "codeigniter",
+              "codeigniter3",
+              "goigniter",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1520,12 +2769,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source GOLANG wbe framework with Codeigniter Flavour",
+            "homepage": "https://goigniter.semut.dev",
             "id": 1131962459,
             "language": "Go",
+            "license": null,
             "last_commit": "2026-07-01T07:37:18Z",
+            "open_issues": 0,
             "owner": "semutdev",
             "repo": "goigniter",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "ci3",
+              "codeigniter",
+              "codeigniter3",
+              "goigniter",
+              "golang"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1536,12 +2796,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🇮🇩 Indonesian Data Validation API — NIK, NPWP, Phone, Rupiah, Bank, Wilayah. Live: nusakit.my.id",
+            "homepage": "https://nusakit.my.id",
             "id": 1266821712,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-13T16:18:08Z",
+            "open_issues": 0,
             "owner": "muhfauziazhar",
             "repo": "nusakit-api",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1552,12 +2817,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple UI for lazy developers. UI components built with Astro and Tailwind CSS. Free Forever",
+            "homepage": "https://tempaui.pages.dev",
             "id": 1259372034,
             "language": "Astro",
+            "license": null,
             "last_commit": "2026-06-28T04:31:50Z",
+            "open_issues": 0,
             "owner": "anandazp",
             "repo": "tempa-ui",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "astro",
+              "components",
+              "components-l",
+              "tailwindcss"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1568,12 +2843,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, Git-friendly tool for designing and collaborating on API contracts",
+            "homepage": null,
             "id": 1259342958,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:41:43Z",
+            "open_issues": 0,
             "owner": "rizukirr",
             "repo": "apic",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "api",
+              "api-contract",
+              "cli-tool",
+              "colaboration",
+              "contracts",
+              "rest-api",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1584,12 +2872,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, Git-friendly tool for designing and collaborating on API contracts",
+            "homepage": null,
             "id": 1259342958,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:41:43Z",
+            "open_issues": 0,
             "owner": "rizukirr",
             "repo": "apic",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "api",
+              "api-contract",
+              "cli-tool",
+              "colaboration",
+              "contracts",
+              "rest-api",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1600,12 +2901,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS app that turns your MacBook's notch into a live dashboard for Claude Code, Codex, etc",
+            "homepage": "https://rifqiakrm.github.io/code-island/",
             "id": 1218706220,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-30T12:28:13Z",
+            "open_issues": 0,
             "owner": "rifqiakrm",
             "repo": "code-island",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1616,12 +2922,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS app that turns your MacBook's notch into a live dashboard for Claude Code, Codex, etc",
+            "homepage": "https://rifqiakrm.github.io/code-island/",
             "id": 1218706220,
             "language": "Swift",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-30T12:28:13Z",
+            "open_issues": 0,
             "owner": "rifqiakrm",
             "repo": "code-island",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1632,12 +2943,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://artidor.vercel.app",
             "id": 1268303560,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T15:11:37Z",
+            "open_issues": 13,
             "owner": "Aofsnorth",
             "repo": "Artidor",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1648,12 +2964,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Directory free AI credits & free tier, Indonesia-first, auto-aggregated dari sumber komunitas. Aggregator transparan (bukan verifier), anti-halusinasi, maintenance nyaris nol.",
+            "homepage": "https://tokengratis.id",
             "id": 1255938497,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-29T02:01:01Z",
+            "open_issues": 1,
             "owner": "raymondchins",
             "repo": "tokengratis-id",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1664,12 +2985,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1264127273,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-09T15:51:19Z",
+            "open_issues": 0,
             "owner": "RamaAditya49",
             "repo": "ai-agentic",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1680,12 +3006,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next.js security middleware with Redis-backed threat scoring, honeypot decoy routing, and Python ML engine for advanced detection.",
+            "homepage": "https://www.npmjs.com/package/hippocrates-middleware",
             "id": 1267681020,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-25T12:19:25Z",
+            "open_issues": 1,
             "owner": "achmdfzn",
             "repo": "hippocrates",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ai-security",
+              "api-security",
+              "bot-detection",
+              "edge-computing",
+              "honeypot",
+              "middleware",
+              "nextjs",
+              "rate-limiting",
+              "redis",
+              "security",
+              "zero-trust",
+              "zod"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1696,12 +3040,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next.js security middleware with Redis-backed threat scoring, honeypot decoy routing, and Python ML engine for advanced detection.",
+            "homepage": "https://www.npmjs.com/package/hippocrates-middleware",
             "id": 1267681020,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-25T12:19:25Z",
+            "open_issues": 1,
             "owner": "achmdfzn",
             "repo": "hippocrates",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "ai-security",
+              "api-security",
+              "bot-detection",
+              "edge-computing",
+              "honeypot",
+              "middleware",
+              "nextjs",
+              "rate-limiting",
+              "redis",
+              "security",
+              "zero-trust",
+              "zod"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1712,12 +3074,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Agent Skills for adding bansos.dev listings and developing the bansos.dev SvelteKit site.",
+            "homepage": "https://skills.sh/wauputr4/skill-bansos",
             "id": 1268303962,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-22T11:40:45Z",
+            "open_issues": 0,
             "owner": "wauputr4",
             "repo": "skill-bansos",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "agent-skills",
+              "ai-agent",
+              "bansos-dev",
+              "codex",
+              "open-agent-skills",
+              "openai",
+              "skills",
+              "skills-sh",
+              "static-site",
+              "sveltekit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1728,12 +3106,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Agent Skills for adding bansos.dev listings and developing the bansos.dev SvelteKit site.",
+            "homepage": "https://skills.sh/wauputr4/skill-bansos",
             "id": 1268303962,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-22T11:40:45Z",
+            "open_issues": 0,
             "owner": "wauputr4",
             "repo": "skill-bansos",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "agent-skills",
+              "ai-agent",
+              "bansos-dev",
+              "codex",
+              "open-agent-skills",
+              "openai",
+              "skills",
+              "skills-sh",
+              "static-site",
+              "sveltekit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1744,12 +3138,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reusable AI agent skill for safe Proxmox homelab production operations, LXC activity logging, backups, security, and migration runbooks.",
+            "homepage": "https://skills.sh/wauputr4/agent-proxmox/proxmox-host-operator",
             "id": 1261404706,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-23T02:37:49Z",
+            "open_issues": 1,
             "owner": "wauputr4",
             "repo": "agent-proxmox",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "ai-agent",
+              "backup",
+              "cloudflare",
+              "codex",
+              "devops",
+              "homelab",
+              "lxc",
+              "proxmox",
+              "proxmox-ve",
+              "skills",
+              "skills-sh",
+              "tailscale"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1760,12 +3172,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RAG System that implement simple and fast. like ragi to make indonesian bread",
+            "homepage": "https://showcase.faisalaffan.com/ragi-instant",
             "id": 1240731705,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-17T01:36:39Z",
+            "open_issues": 9,
             "owner": "faisalaffan",
             "repo": "ragi-instant",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "document-processing",
+              "embeddings",
+              "hybrid-search",
+              "indonesian",
+              "llm",
+              "pgvector",
+              "production-ready",
+              "rag",
+              "rag-evaluation",
+              "regulatory-compliance",
+              "reranking",
+              "retrieval-augmented-generation",
+              "semantic-search",
+              "vector-sesarch"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1776,12 +3208,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source AI personality analysis based on birth place, date, and time for reflective self-discovery.",
+            "homepage": "https://hermex.fun",
             "id": 1252333218,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-03T16:21:24Z",
+            "open_issues": 0,
             "owner": "wauputr4",
             "repo": "hermex",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1792,12 +3229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aplikasi untuk menghitung hari selamatan orang meninggal (tahlilan) dan panduan bacaan Yasin & Tahlil lengkap, serta tata cara pengurusan jenazah.",
+            "homepage": "https://tahlil-tracker.vercel.app/",
             "id": 1113501334,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-02T07:13:42Z",
+            "open_issues": 0,
             "owner": "jutionck",
             "repo": "tahlil-tracker",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1808,12 +3250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aplikasi untuk menghitung hari selamatan orang meninggal (tahlilan) dan panduan bacaan Yasin & Tahlil lengkap, serta tata cara pengurusan jenazah.",
+            "homepage": "https://tahlil-tracker.vercel.app/",
             "id": 1113501334,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-02T07:13:42Z",
+            "open_issues": 0,
             "owner": "jutionck",
             "repo": "tahlil-tracker",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1824,12 +3271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of islamic tools and utilities implemented in stb-style header only library",
+            "homepage": "https://muslimtify.vercel.app",
             "id": 1101871424,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-08-22T08:02:19Z",
+            "open_issues": 4,
             "owner": "muslimtify-org",
             "repo": "libmuslim",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1840,12 +3292,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quiet place for your bookmarks.",
+            "homepage": "https://sheltermark.vercel.app",
             "id": 1154154700,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T12:47:33Z",
+            "open_issues": 0,
             "owner": "AdityaZxxx",
             "repo": "sheltermark",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "bookmarks",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1856,12 +3316,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A quiet place for your bookmarks.",
+            "homepage": "https://sheltermark.vercel.app",
             "id": 1154154700,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T12:47:33Z",
+            "open_issues": 0,
             "owner": "AdityaZxxx",
             "repo": "sheltermark",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "bookmarks",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1872,12 +3340,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aplikasi web untuk memantau harga BBM Indonesia per wilayah",
+            "homepage": "https://pantaubbm.viasco.my.id",
             "id": 1258889386,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-08-09T10:23:09Z",
+            "open_issues": 0,
             "owner": "bimoalfarrabi",
             "repo": "pantau-bbm",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1888,12 +3361,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TrapFall — Lightweight self-hosted error capture engine. Sentry-compatible, Rust + SvelteKit 5.",
+            "homepage": "https://codecora.dev",
             "id": 1260854062,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T08:25:06Z",
+            "open_issues": 12,
             "owner": "codecoradev",
             "repo": "trapfall",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "axum",
+              "blake3",
+              "crash-reporting",
+              "error-capture",
+              "error-tracking",
+              "flutter",
+              "mcp",
+              "observability",
+              "rust",
+              "self-hosted",
+              "sentry",
+              "sentry-alternative",
+              "sveltekit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1904,12 +3396,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TrapFall — Lightweight self-hosted error capture engine. Sentry-compatible, Rust + SvelteKit 5.",
+            "homepage": "https://codecora.dev",
             "id": 1260854062,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T08:25:06Z",
+            "open_issues": 12,
             "owner": "codecoradev",
             "repo": "trapfall",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "axum",
+              "blake3",
+              "crash-reporting",
+              "error-capture",
+              "error-tracking",
+              "flutter",
+              "mcp",
+              "observability",
+              "rust",
+              "self-hosted",
+              "sentry",
+              "sentry-alternative",
+              "sveltekit"
+            ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1920,12 +3431,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust MVC MCP Server — Unified AI coding agent platform built with Axum, SQLx, and tokio. 90 MCP tools, 4-layer memory, PostgreSQL.",
+            "homepage": null,
             "id": 1254970654,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-12T02:06:11Z",
+            "open_issues": 14,
             "owner": "dayartcrew-web",
             "repo": "masday-workflow-rust",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1936,12 +3452,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust MVC MCP Server — Unified AI coding agent platform built with Axum, SQLx, and tokio. 90 MCP tools, 4-layer memory, PostgreSQL.",
+            "homepage": null,
             "id": 1254970654,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-12T02:06:11Z",
+            "open_issues": 14,
             "owner": "dayartcrew-web",
             "repo": "masday-workflow-rust",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         },
@@ -1952,12 +3473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI-powered sales agent for hospitals that automates lead qualification, patient engagement, appointment scheduling, and follow-up workflows.",
+            "homepage": null,
             "id": 1268922573,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-14T13:53:40Z",
+            "open_issues": 0,
             "owner": "NzxCode",
             "repo": "Hospital-Ai-Sales-Agent",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
         }
@@ -1966,15 +3492,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:26:27.380Z",
+    "last_updated": "2026-08-29T04:59:41.631Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome list of Indonesian open source projects listing on https://indopensource.org/projects and https://tokengratis.id/opensource",
+      "homepage": "https://tokengratis.id/opensource",
       "id": 1266598624,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2026-08-29T01:45:33Z",
+      "open_issues": 3,
       "owner": "IndopenSource",
       "repo": "awesome-indonesia",
-      "stars": 88
+      "stars": 88,
+      "topics": [
+        "awesome-indonesia",
+        "awesome-list",
+        "community",
+        "developer-tools",
+        "github",
+        "indonesia",
+        "indonesian",
+        "open-source",
+        "open-source-indonesia",
+        "repository-list"
+      ]
     },
     "original_repository_sha": "e0dd0e994e52cd89b087be8b3f243f0976b51ce9",
     "enhanced_repository": "enhansome/enhansome-indonesia",
