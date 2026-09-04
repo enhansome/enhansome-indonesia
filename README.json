@@ -15,7 +15,7 @@
             "id": 1269000023,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T21:03:17Z",
+            "last_commit": "2026-09-04T20:46:32Z",
             "open_issues": 0,
             "owner": "IndopenSource",
             "repo": "awesome-indonesia-legacy",
@@ -42,7 +42,7 @@
             "id": 1268999981,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-03T21:01:07Z",
+            "last_commit": "2026-09-04T20:44:24Z",
             "open_issues": 0,
             "owner": "IndopenSource",
             "repo": "awesome-indonesia-revival",
@@ -250,10 +250,10 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T02:10:58Z",
-            "open_issues": 357,
+            "open_issues": 360,
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "opensid",
               "sistem-informasi-desa"
@@ -274,10 +274,10 @@
             "language": "PHP",
             "license": "NOASSERTION",
             "last_commit": "2026-09-01T02:10:58Z",
-            "open_issues": 357,
+            "open_issues": 360,
             "owner": "OpenSID",
             "repo": "OpenSID",
-            "stars": 1222,
+            "stars": 1223,
             "topics": [
               "opensid",
               "sistem-informasi-desa"
@@ -301,7 +301,7 @@
             "open_issues": 0,
             "owner": "jipraks",
             "repo": "yt-short-clipper",
-            "stars": 983,
+            "stars": 986,
             "topics": [
               "ai-video",
               "content-creation",
@@ -340,7 +340,7 @@
             "open_issues": 0,
             "owner": "jipraks",
             "repo": "yt-short-clipper",
-            "stars": 983,
+            "stars": 986,
             "topics": [
               "ai-video",
               "content-creation",
@@ -421,7 +421,7 @@
             "open_issues": 9,
             "owner": "rayasabari",
             "repo": "joko-ui",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "css",
               "ui",
@@ -449,7 +449,7 @@
             "open_issues": 9,
             "owner": "rayasabari",
             "repo": "joko-ui",
-            "stars": 415,
+            "stars": 416,
             "topics": [
               "css",
               "ui",
@@ -531,11 +531,11 @@
             "id": 1182108360,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T09:11:28Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-04T15:42:25Z",
+            "open_issues": 15,
             "owner": "fajarhide",
             "repo": "omni",
-            "stars": 361,
+            "stars": 364,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -573,11 +573,11 @@
             "id": 1182108360,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T09:11:28Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-04T15:42:25Z",
+            "open_issues": 15,
             "owner": "fajarhide",
             "repo": "omni",
-            "stars": 361,
+            "stars": 364,
             "topics": [
               "agentic-ai",
               "ai-agents",
@@ -615,11 +615,11 @@
             "id": 1195674112,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T17:07:34Z",
+            "last_commit": "2026-09-04T14:49:38Z",
             "open_issues": 1,
             "owner": "hadziqmtqn",
             "repo": "erd-builder-pro",
-            "stars": 202,
+            "stars": 203,
             "topics": [
               "coding",
               "data-engineering",
@@ -648,11 +648,11 @@
             "id": 1195674112,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T17:07:34Z",
+            "last_commit": "2026-09-04T14:49:38Z",
             "open_issues": 1,
             "owner": "hadziqmtqn",
             "repo": "erd-builder-pro",
-            "stars": 202,
+            "stars": 203,
             "topics": [
               "coding",
               "data-engineering",
@@ -682,10 +682,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-01T17:19:30Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "gnoviawan",
             "repo": "termul",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "cross-platform",
               "desktop-app",
@@ -717,10 +717,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-01T17:19:30Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "gnoviawan",
             "repo": "termul",
-            "stars": 232,
+            "stars": 233,
             "topics": [
               "cross-platform",
               "desktop-app",
@@ -776,7 +776,7 @@
             "open_issues": 1,
             "owner": "hendisantika",
             "repo": "Online-banking-angular-springboot-mysql",
-            "stars": 130,
+            "stars": 131,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
@@ -931,7 +931,7 @@
             "open_issues": 8,
             "owner": "jipraks",
             "repo": "kasirgratisan",
-            "stars": 125,
+            "stars": 130,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
@@ -952,7 +952,7 @@
             "open_issues": 10,
             "owner": "depapp",
             "repo": "IndoGitHubers",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -978,7 +978,7 @@
             "open_issues": 10,
             "owner": "depapp",
             "repo": "IndoGitHubers",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "hacktoberfest",
               "hacktoberfest-accepted",
@@ -1004,7 +1004,7 @@
             "open_issues": 0,
             "owner": "adenaufal",
             "repo": "anti-slop-writing",
-            "stars": 122,
+            "stars": 125,
             "topics": [
               "agent-skill",
               "ai",
@@ -1041,7 +1041,7 @@
             "open_issues": 0,
             "owner": "adenaufal",
             "repo": "anti-slop-writing",
-            "stars": 122,
+            "stars": 125,
             "topics": [
               "agent-skill",
               "ai",
@@ -1158,7 +1158,7 @@
             "open_issues": 14,
             "owner": "ddtamn",
             "repo": "svelte-audio-ui",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "audio",
               "audio-player",
@@ -1187,7 +1187,7 @@
             "open_issues": 14,
             "owner": "ddtamn",
             "repo": "svelte-audio-ui",
-            "stars": 90,
+            "stars": 91,
             "topics": [
               "audio",
               "audio-player",
@@ -1237,7 +1237,7 @@
             "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "TEDI",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "ai",
               "ai-agent",
@@ -1274,7 +1274,7 @@
             "open_issues": 0,
             "owner": "IlhamriSKY",
             "repo": "TEDI",
-            "stars": 155,
+            "stars": 156,
             "topics": [
               "ai",
               "ai-agent",
@@ -1311,7 +1311,7 @@
             "open_issues": 0,
             "owner": "giosakti",
             "repo": "duragent",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
@@ -1332,7 +1332,7 @@
             "open_issues": 0,
             "owner": "giosakti",
             "repo": "duragent",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
@@ -1472,7 +1472,7 @@
             "open_issues": 4,
             "owner": "wauputr4",
             "repo": "bansos",
-            "stars": 67,
+            "stars": 66,
             "topics": [
               "bansos",
               "cli",
@@ -1504,7 +1504,7 @@
             "open_issues": 4,
             "owner": "wauputr4",
             "repo": "bansos",
-            "stars": 67,
+            "stars": 66,
             "topics": [
               "bansos",
               "cli",
@@ -1536,7 +1536,7 @@
             "open_issues": 3,
             "owner": "raymondchins",
             "repo": "agentmap",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -1578,7 +1578,7 @@
             "open_issues": 3,
             "owner": "raymondchins",
             "repo": "agentmap",
-            "stars": 47,
+            "stars": 48,
             "topics": [
               "ai-agents",
               "ai-coding",
@@ -1620,7 +1620,7 @@
             "open_issues": 17,
             "owner": "akbxr",
             "repo": "dns",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "adblock",
               "dns",
@@ -1644,11 +1644,11 @@
             "id": 1247181447,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-02T04:50:48Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-04T16:24:56Z",
+            "open_issues": 3,
             "owner": "firewalker06",
             "repo": "tycho",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
@@ -1665,11 +1665,11 @@
             "id": 1247181447,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-09-02T04:50:48Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-04T16:24:56Z",
+            "open_issues": 3,
             "owner": "firewalker06",
             "repo": "tycho",
-            "stars": 45,
+            "stars": 46,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
@@ -1703,6 +1703,46 @@
             ]
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
+        },
+        {
+          "node_type": "item",
+          "title": "os-vps",
+          "description": "Topside — mobile-first web cockpit for a headless Linux VPS. Terminal, files, monitor, media + a real remote browser in a desktop-style UI. Single Next.js app, no database, no agent. @rahmanef63 TypeScript 35 6 0 MIT 2026-07-15  N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Browser-based graphical shell and control plane for a Linux server you own — real terminal, file manager, live metrics and BYOK AI in one mobile-first workspace. Next.js 16 · React 19 · node-pty · Tailwind v4 · shadcn/ui. Public alpha, self-hosted.",
+            "homepage": "https://mso.rahmanef.com",
+            "id": 1253671303,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-04T10:50:17Z",
+            "open_issues": 1,
+            "owner": "rahmanef63",
+            "repo": "mso",
+            "stars": 74,
+            "topics": [
+              "browser-shell",
+              "control-plane",
+              "file-manager",
+              "homelab",
+              "mobile-first",
+              "nextjs",
+              "pty",
+              "react",
+              "self-hosted",
+              "server-management",
+              "shadcn-ui",
+              "sysadmin",
+              "tailwindcss",
+              "terminal",
+              "typescript",
+              "vps",
+              "web-desktop",
+              "web-terminal"
+            ]
+          },
+          "first_seen": "2026-09-04T21:48:48.594Z"
         },
         {
           "node_type": "item",
@@ -1842,7 +1882,7 @@
             "open_issues": 22,
             "owner": "pendig",
             "repo": "rute-bayar",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "cli",
               "go",
@@ -1873,7 +1913,7 @@
             "open_issues": 22,
             "owner": "pendig",
             "repo": "rute-bayar",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "cli",
               "go",
@@ -2002,10 +2042,44 @@
             "open_issues": 1,
             "owner": "RafiulM",
             "repo": "warungos",
-            "stars": 19,
+            "stars": 20,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
+        },
+        {
+          "node_type": "item",
+          "title": "control-room",
+          "description": "terminals vps for vibe coders, tmux alternative @rahmanef63 TypeScript 17 3 0 MIT 2026-06-24 N/A N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mobile-first PWA for driving a single VPS from the browser — up to 16 concurrent terminals, AI agent launchers, host ops and audit behind one shared secret on a Tailscale-only domain. Next.js 15 · React 19 · Node agent (node-pty + xterm.js).",
+            "homepage": null,
+            "id": 1187264213,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-04T01:54:49Z",
+            "open_issues": 0,
+            "owner": "rahmanef63",
+            "repo": "control-room",
+            "stars": 19,
+            "topics": [
+              "ai-agents",
+              "devops",
+              "mobile-first",
+              "nextjs",
+              "nodejs",
+              "pty",
+              "pwa",
+              "self-hosted",
+              "terminal",
+              "tmux-alternative",
+              "vps",
+              "xterm"
+            ]
+          },
+          "first_seen": "2026-09-04T21:48:48.594Z"
         },
         {
           "node_type": "item",
@@ -2083,7 +2157,7 @@
             "id": 1264105561,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T06:55:41Z",
+            "last_commit": "2026-09-04T13:05:25Z",
             "open_issues": 0,
             "owner": "RudyCity",
             "repo": "superagent",
@@ -2104,7 +2178,7 @@
             "id": 1264105561,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T06:55:41Z",
+            "last_commit": "2026-09-04T13:05:25Z",
             "open_issues": 0,
             "owner": "RudyCity",
             "repo": "superagent",
@@ -2157,6 +2231,41 @@
         },
         {
           "node_type": "item",
+          "title": "open-silong",
+          "description": "An open-source Notion-inspired workspace for teams and personal use @rahmanef63 TypeScript 13 3 0 MIT 2026-07-15  N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source, self-hostable Notion/Obsidian-style workspace — block editor for notes, docs and lightweight databases, plus a knowledge graph over them. Next.js 16 · React 19 · Convex · Tailwind v4.",
+            "homepage": "https://silong-os.vercel.app/",
+            "id": 1224906567,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-30T13:18:54Z",
+            "open_issues": 0,
+            "owner": "rahmanef63",
+            "repo": "open-silong",
+            "stars": 26,
+            "topics": [
+              "block-editor",
+              "convex",
+              "indonesia",
+              "knowledge-graph",
+              "nextjs",
+              "notion-alternative",
+              "notion-clone",
+              "open-source",
+              "react",
+              "self-hosted",
+              "tailwindcss",
+              "typescript",
+              "workspace"
+            ]
+          },
+          "first_seen": "2026-09-04T21:48:48.594Z"
+        },
+        {
+          "node_type": "item",
           "title": "muslimtify",
           "description": "A daily prayer notification daemon for Muslims on Windows and Linux, supporting 21 global standard calculation methods, all madzhab, all country.",
           "children": [],
@@ -2167,7 +2276,7 @@
             "id": 1164802750,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-08-30T03:26:11Z",
+            "last_commit": "2026-09-04T16:36:06Z",
             "open_issues": 0,
             "owner": "muslimtify-org",
             "repo": "muslimtify",
@@ -2200,7 +2309,7 @@
             "id": 1164802750,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-08-30T03:26:11Z",
+            "last_commit": "2026-09-04T16:36:06Z",
             "open_issues": 0,
             "owner": "muslimtify-org",
             "repo": "muslimtify",
@@ -2223,6 +2332,40 @@
         },
         {
           "node_type": "item",
+          "title": "si-coder-agent",
+          "description": "Zero-human full-stack deployment skill bundle for AI agents — GitHub + Dokploy + Convex (self-hosted & Cloud) + Vercel + Hostinger DNS, via modular /sc-* slash commands. @rahmanef63 JavaScript 12 2 0 MIT 2026-07-10  N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Zero-human full-stack deployment as a bundle of /sc-* Claude Code slash commands — GitHub + Convex (self-hosted & Cloud) + Dokploy + Vercel + Hostinger DNS, source to verified live URL. Node ≥18, no runtime dependencies. 8 skills implemented, 5 stubs.",
+            "homepage": null,
+            "id": 1185590962,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-09-02T20:45:36Z",
+            "open_issues": 1,
+            "owner": "rahmanef63",
+            "repo": "si-coder-agent",
+            "stars": 14,
+            "topics": [
+              "ai-agent",
+              "claude-code",
+              "claude-skills",
+              "convex",
+              "deployment-automation",
+              "devops",
+              "dokploy",
+              "hostinger",
+              "nextjs",
+              "self-hosted",
+              "vercel",
+              "zero-human"
+            ]
+          },
+          "first_seen": "2026-09-04T21:48:48.594Z"
+        },
+        {
+          "node_type": "item",
           "title": "numc",
           "description": "A fast, lightweight NumPy-like N-dimensional tensor library in C, built for high-performance scientific computing and AI workloads. @rizukirr C 12 1 0 MIT 2026-06-16  N/A",
           "children": [],
@@ -2237,7 +2380,7 @@
             "open_issues": 0,
             "owner": "rizukirr",
             "repo": "numc",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "asm",
               "blas",
@@ -2265,7 +2408,7 @@
             "id": 1069638479,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-03T17:15:12Z",
+            "last_commit": "2026-09-04T16:52:11Z",
             "open_issues": 0,
             "owner": "rizukirr",
             "repo": "hyprsimple",
@@ -2293,7 +2436,7 @@
             "id": 1069638479,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-09-03T17:15:12Z",
+            "last_commit": "2026-09-04T16:52:11Z",
             "open_issues": 0,
             "owner": "rizukirr",
             "repo": "hyprsimple",
@@ -2325,7 +2468,7 @@
             "open_issues": 0,
             "owner": "ahmadghaisanfad2",
             "repo": "absen-kelas",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
@@ -2346,7 +2489,7 @@
             "open_issues": 0,
             "owner": "ahmadghaisanfad2",
             "repo": "absen-kelas",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
@@ -2427,11 +2570,11 @@
             "id": 1256762986,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-12T14:42:26Z",
+            "last_commit": "2026-09-04T11:17:03Z",
             "open_issues": 0,
             "owner": "xpajonx",
             "repo": "openempiric",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "agent-memory",
               "agentic-ai",
@@ -2464,11 +2607,11 @@
             "id": 1256762986,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-12T14:42:26Z",
+            "last_commit": "2026-09-04T11:17:03Z",
             "open_issues": 0,
             "owner": "xpajonx",
             "repo": "openempiric",
-            "stars": 10,
+            "stars": 11,
             "topics": [
               "agent-memory",
               "agentic-ai",
@@ -2505,7 +2648,7 @@
             "open_issues": 0,
             "owner": "hellodit",
             "repo": "OpenMasjid",
-            "stars": 11,
+            "stars": 12,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
@@ -2556,6 +2699,41 @@
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
+        },
+        {
+          "node_type": "item",
+          "title": "framepilot",
+          "description": "Browser-based 3D camera previsualization and shot planner for designing scenes, frames, camera angles, lenses, movements, and AI-ready prompts. @rahmanef63 TypeScript 8 0 0 N/A 2026-07-15 N/A N/A",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Browser-based 3D camera previsualization and shot planner — design scenes, frames, angles, lenses and moves, then export platform-tuned prompts for AI video models. Next.js 16 · React 19 · Three.js · Convex.",
+            "homepage": "https://frame-pilot.rahmanef.com/",
+            "id": 1296557779,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-02T10:08:50Z",
+            "open_issues": 0,
+            "owner": "rahmanef63",
+            "repo": "framepilot",
+            "stars": 9,
+            "topics": [
+              "ai-video",
+              "camera",
+              "cinematography",
+              "convex",
+              "nextjs",
+              "previsualization",
+              "prompt-engineering",
+              "shot-planner",
+              "storyboard",
+              "text-to-video",
+              "threejs",
+              "typescript",
+              "webgl"
+            ]
+          },
+          "first_seen": "2026-09-04T21:48:48.594Z"
         },
         {
           "node_type": "item",
@@ -2627,7 +2805,7 @@
             "open_issues": 0,
             "owner": "muhfauziazhar",
             "repo": "nusakit-api",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-29T02:26:27.380Z"
@@ -2648,7 +2826,7 @@
             "open_issues": 0,
             "owner": "anandazp",
             "repo": "tempa-ui",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "astro",
               "components",
@@ -2791,7 +2969,7 @@
             "id": 1255938497,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T21:35:49Z",
+            "last_commit": "2026-09-04T21:18:22Z",
             "open_issues": 1,
             "owner": "raymondchins",
             "repo": "tokengratis-id",
@@ -2837,7 +3015,7 @@
             "open_issues": 1,
             "owner": "achmdfzn",
             "repo": "hippocrates",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "ai-security",
               "api-security",
@@ -2871,7 +3049,7 @@
             "open_issues": 1,
             "owner": "achmdfzn",
             "repo": "hippocrates",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "ai-security",
               "api-security",
@@ -2905,7 +3083,7 @@
             "open_issues": 0,
             "owner": "wauputr4",
             "repo": "skill-bansos",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -2937,7 +3115,7 @@
             "open_issues": 0,
             "owner": "wauputr4",
             "repo": "skill-bansos",
-            "stars": 3,
+            "stars": 4,
             "topics": [
               "agent-skills",
               "ai-agent",
@@ -3314,7 +3492,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:52:51.157Z",
+    "last_updated": "2026-09-04T21:48:48.594Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Indonesian open source projects listing on https://indopensource.org/projects and https://tokengratis.id/opensource",
@@ -3322,11 +3500,11 @@
       "id": 1266598624,
       "language": "Python",
       "license": "MIT",
-      "last_commit": "2026-08-31T22:50:18Z",
+      "last_commit": "2026-09-04T20:45:32Z",
       "open_issues": 3,
       "owner": "IndopenSource",
       "repo": "awesome-indonesia",
-      "stars": 88,
+      "stars": 89,
       "topics": [
         "awesome-indonesia",
         "awesome-list",
