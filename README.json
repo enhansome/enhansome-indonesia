@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Awesome Indonesia Legacy",
-          "description": null,
+          "description": "IndopenSource/awesome-indonesia-legacy",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "Awesome Indonesia Revival",
-          "description": null,
+          "description": "IndopenSource/awesome-indonesia-revival",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -70,7 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
+            "description": "UAParser.js: The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
             "homepage": "https://uaparser.dev/",
             "id": 3320710,
             "language": "JavaScript",
@@ -96,11 +96,11 @@
         {
           "node_type": "item",
           "title": "faisalman/ua-parser-js",
-          "description": "2026-05-21",
+          "description": "faisalman/ua-parser-js",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
+            "description": "UAParser.js: The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node",
             "homepage": "https://uaparser.dev/",
             "id": 3320710,
             "language": "JavaScript",
@@ -153,7 +153,7 @@
         {
           "node_type": "item",
           "title": "laravolt/avatar",
-          "description": "2026-07-21",
+          "description": "laravolt/avatar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -210,7 +210,7 @@
         {
           "node_type": "item",
           "title": "v3.1.1",
-          "description": "2025-11-03",
+          "description": "danpros/htmly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -264,7 +264,7 @@
         {
           "node_type": "item",
           "title": "v2607.0.1",
-          "description": "2026-07-24",
+          "description": "OpenSID/OpenSID",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -327,7 +327,7 @@
         {
           "node_type": "item",
           "title": "v2.0.6-beta",
-          "description": "2026-08-20",
+          "description": "jipraks/yt-short-clipper",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -387,7 +387,7 @@
         {
           "node_type": "item",
           "title": "v0.41",
-          "description": "2026-03-03",
+          "description": "laravolt/indonesia",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -436,7 +436,7 @@
         {
           "node_type": "item",
           "title": "v0.8.0",
-          "description": "2026-06-06",
+          "description": "rayasabari/joko-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -473,8 +473,8 @@
             "id": 1182108360,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T16:06:05Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-03T02:32:45Z",
+            "open_issues": 17,
             "owner": "fajarhide",
             "repo": "omni",
             "stars": 373,
@@ -506,7 +506,7 @@
         {
           "node_type": "item",
           "title": "v0.7.9",
-          "description": "2026-09-04",
+          "description": "fajarhide/omni",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -515,8 +515,8 @@
             "id": 1182108360,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-30T16:06:05Z",
-            "open_issues": 20,
+            "last_commit": "2026-10-03T02:32:45Z",
+            "open_issues": 17,
             "owner": "fajarhide",
             "repo": "omni",
             "stars": 373,
@@ -577,7 +577,7 @@
         {
           "node_type": "item",
           "title": "v2.0.0",
-          "description": "2026-09-11",
+          "description": "Drenzzz/ADBKit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -615,11 +615,11 @@
             "id": 1133241492,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:58:15Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-03T04:11:24Z",
+            "open_issues": 40,
             "owner": "gnoviawan",
             "repo": "termul",
-            "stars": 256,
+            "stars": 258,
             "topics": [
               "cross-platform",
               "desktop-app",
@@ -641,7 +641,7 @@
         {
           "node_type": "item",
           "title": "v0.4.15",
-          "description": "2026-08-27",
+          "description": "gnoviawan/termul",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -650,11 +650,11 @@
             "id": 1133241492,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:58:15Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-03T04:11:24Z",
+            "open_issues": 40,
             "owner": "gnoviawan",
             "repo": "termul",
-            "stars": 256,
+            "stars": 258,
             "topics": [
               "cross-platform",
               "desktop-app",
@@ -718,7 +718,7 @@
         {
           "node_type": "item",
           "title": "v0.17.0",
-          "description": "2026-09-06",
+          "description": "codecoradev/uteke",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -769,8 +769,8 @@
             "id": 1195674112,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T03:40:20Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-03T02:35:00Z",
+            "open_issues": 11,
             "owner": "hadziqmtqn",
             "repo": "erd-builder-pro",
             "stars": 206,
@@ -793,7 +793,7 @@
         {
           "node_type": "item",
           "title": "v3.4.6",
-          "description": "2026-09-03",
+          "description": "hadziqmtqn/erd-builder-pro",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -802,8 +802,8 @@
             "id": 1195674112,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T03:40:20Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-03T02:35:00Z",
+            "open_issues": 11,
             "owner": "hadziqmtqn",
             "repo": "erd-builder-pro",
             "stars": 206,
@@ -884,7 +884,7 @@
         {
           "node_type": "item",
           "title": "v0.4.55",
-          "description": "2026-09-11",
+          "description": "IlhamriSKY/TEDI",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -961,7 +961,7 @@
         {
           "node_type": "item",
           "title": "v0.1.29",
-          "description": "2026-08-28",
+          "description": "mydisha/keirouter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1080,7 +1080,7 @@
         {
           "node_type": "item",
           "title": "v3.0",
-          "description": "2026-07-06",
+          "description": "adenaufal/anti-slop-writing",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1142,7 +1142,7 @@
         {
           "node_type": "item",
           "title": "v2.1.3",
-          "description": "2026-08-24",
+          "description": "IlhamriSKY/PDDIKTI-kemdikbud-API",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1193,7 +1193,7 @@
         {
           "node_type": "item",
           "title": "v1.0.0",
-          "description": "2024-02-18",
+          "description": "depapp/IndoGitHubers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1248,7 +1248,7 @@
         {
           "node_type": "item",
           "title": "v1.0.1",
-          "description": "2026-04-01",
+          "description": "ddtamn/svelte-audio-ui",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1317,7 +1317,7 @@
         {
           "node_type": "item",
           "title": "v0.2.0",
-          "description": "2026-08-02",
+          "description": "rahmanef63/mso",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1410,7 +1410,7 @@
         {
           "node_type": "item",
           "title": "v0.0.14",
-          "description": "2026-07-23",
+          "description": "wauputr4/bansos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1489,7 +1489,7 @@
         {
           "node_type": "item",
           "title": "v0.9.7",
-          "description": "2026-06-24",
+          "description": "abilfida/OmniDrive",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1536,7 +1536,7 @@
         {
           "node_type": "item",
           "title": "woah-first",
-          "description": "2026-06-20",
+          "description": "mmenghancurkan/dynaQRIS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1578,7 +1578,7 @@
         {
           "node_type": "item",
           "title": "v0.5.4",
-          "description": "2026-02-18",
+          "description": "giosakti/duragent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1666,7 +1666,7 @@
         {
           "node_type": "item",
           "title": "v0.22.0",
-          "description": "2026-08-04",
+          "description": "raymondchins/agentmap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1717,8 +1717,8 @@
             "id": 1247181447,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:41:29Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-03T04:40:21Z",
+            "open_issues": 1,
             "owner": "firewalker06",
             "repo": "tycho",
             "stars": 51,
@@ -1729,7 +1729,7 @@
         {
           "node_type": "item",
           "title": "v0.11.0",
-          "description": "2026-09-13",
+          "description": "firewalker06/tycho",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1738,8 +1738,8 @@
             "id": 1247181447,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:41:29Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-03T04:40:21Z",
+            "open_issues": 1,
             "owner": "firewalker06",
             "repo": "tycho",
             "stars": 51,
@@ -1785,13 +1785,13 @@
             "description": "The Simplest & Most Reliable LAN / Cross-VLAN Virtual Printer Sharing Solution for Windows",
             "homepage": null,
             "id": 1247281541,
-            "language": "C#",
+            "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-02T05:52:59Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T04:16:37Z",
+            "open_issues": 2,
             "owner": "ardli-firman",
             "repo": "sha-print",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "desktop-app",
               "printer",
@@ -1805,20 +1805,20 @@
         {
           "node_type": "item",
           "title": "v1.6.3-stable",
-          "description": "2026-08-14",
+          "description": "ardli-firman/sha-print",
           "children": [],
           "repo_info": {
             "archived": false,
             "description": "The Simplest & Most Reliable LAN / Cross-VLAN Virtual Printer Sharing Solution for Windows",
             "homepage": null,
             "id": 1247281541,
-            "language": "C#",
+            "language": "Rust",
             "license": null,
-            "last_commit": "2026-10-02T05:52:59Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-03T04:16:37Z",
+            "open_issues": 2,
             "owner": "ardli-firman",
             "repo": "sha-print",
-            "stars": 43,
+            "stars": 44,
             "topics": [
               "desktop-app",
               "printer",
@@ -1866,7 +1866,7 @@
         {
           "node_type": "item",
           "title": "v2.0.3",
-          "description": "2026-05-23",
+          "description": "rizukirr/no-vibe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1965,7 +1965,7 @@
         {
           "node_type": "item",
           "title": "v1.0.0",
-          "description": "2026-07-17",
+          "description": "ammar-rasyidi/mandum-rimba",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2031,7 +2031,7 @@
         {
           "node_type": "item",
           "title": "v0.1.11",
-          "description": "2026-06-15",
+          "description": "pendig/rute-bayar",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2118,7 +2118,7 @@
         {
           "node_type": "item",
           "title": "v1.0.0",
-          "description": "2026-08-02",
+          "description": "rahmanef63/open-silong",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2181,7 +2181,7 @@
         {
           "node_type": "item",
           "title": "v0.3.3",
-          "description": "2026-09-09",
+          "description": "rizukirr/hyprsimple",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2218,7 +2218,7 @@
             "id": 1264105561,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:58:26Z",
+            "last_commit": "2026-10-03T00:41:42Z",
             "open_issues": 0,
             "owner": "RudyCity",
             "repo": "superagent",
@@ -2230,7 +2230,7 @@
         {
           "node_type": "item",
           "title": "v1.2.615",
-          "description": "2026-07-28",
+          "description": "RudyCity/superagent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2239,7 +2239,7 @@
             "id": 1264105561,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T22:58:26Z",
+            "last_commit": "2026-10-03T00:41:42Z",
             "open_issues": 0,
             "owner": "RudyCity",
             "repo": "superagent",
@@ -2302,8 +2302,8 @@
             "id": 1217129907,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T07:40:14Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-03T00:12:38Z",
+            "open_issues": 1,
             "owner": "rizukirr",
             "repo": "vibekit",
             "stars": 20,
@@ -2328,7 +2328,7 @@
         {
           "node_type": "item",
           "title": "v0.6.3",
-          "description": "2026-09-05",
+          "description": "rizukirr/vibekit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2337,8 +2337,8 @@
             "id": 1217129907,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T07:40:14Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-03T00:12:38Z",
+            "open_issues": 1,
             "owner": "rizukirr",
             "repo": "vibekit",
             "stars": 20,
@@ -2397,7 +2397,7 @@
         {
           "node_type": "item",
           "title": "v2.0.0",
-          "description": "2026-08-02",
+          "description": "rahmanef63/control-room",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2452,7 +2452,7 @@
         {
           "node_type": "item",
           "title": "v0.11.0",
-          "description": "2026-07-02",
+          "description": "MuhammadHasbiAshshiddieqy/OpenClawn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2527,7 +2527,7 @@
         {
           "node_type": "item",
           "title": "v0.4.1",
-          "description": "2026-08-20",
+          "description": "muslimtify-org/muslimtify",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2613,7 +2613,7 @@
         {
           "node_type": "item",
           "title": "v3.5.0",
-          "description": "2026-09-13",
+          "description": "NAEOS-foundation/naeos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2655,7 +2655,7 @@
         {
           "node_type": "item",
           "title": "v0.1.17",
-          "description": "2026-06-11",
+          "description": "ahmadghaisanfad2/absen-kelas",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2710,7 +2710,7 @@
         {
           "node_type": "item",
           "title": "v0.9.8",
-          "description": "2026-09-06",
+          "description": "rahmanef63/si-coder-agent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2797,7 +2797,7 @@
         {
           "node_type": "item",
           "title": "v0.1.3",
-          "description": "2026-04-01",
+          "description": "fajarhide/heimsense",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2866,7 +2866,7 @@
         {
           "node_type": "item",
           "title": "v1.1.0",
-          "description": "2026-08-04",
+          "description": "xpajonx/openempiric",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2930,7 +2930,7 @@
         {
           "node_type": "item",
           "title": "v0.2.0",
-          "description": "2026-03-26",
+          "description": "semutdev/goigniter",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2986,7 +2986,7 @@
         {
           "node_type": "item",
           "title": "v0.5.1",
-          "description": "2026-08-27",
+          "description": "rizukirr/apic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3062,7 +3062,7 @@
         {
           "node_type": "item",
           "title": "v1.4.10",
-          "description": "2026-07-30",
+          "description": "rifqiakrm/code-island",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3144,7 +3144,7 @@
         {
           "node_type": "item",
           "title": "v0.3.0",
-          "description": "2026-09-03",
+          "description": "codecoradev/trapfall",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3256,7 +3256,7 @@
         {
           "node_type": "item",
           "title": "v0.1.0",
-          "description": "2026-08-02",
+          "description": "rahmanef63/framepilot",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3325,7 +3325,7 @@
         {
           "node_type": "item",
           "title": "v0.1.0",
-          "description": "2026-07-23",
+          "description": "wauputr4/agent-proxmox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3414,7 +3414,7 @@
         {
           "node_type": "item",
           "title": "v1.8.1",
-          "description": "2026-06-14",
+          "description": "achmdfzn/hippocrates",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3469,7 +3469,7 @@
         {
           "node_type": "item",
           "title": "muslimtify-org/libmuslim",
-          "description": "2026-09-06",
+          "description": "muslimtify-org/libmuslim",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3499,7 +3499,7 @@
             "id": 1309499771,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-08-21T03:20:21Z",
+            "last_commit": "2026-10-03T03:42:20Z",
             "open_issues": 0,
             "owner": "Kusdianta",
             "repo": "disk-space-detective",
@@ -3511,7 +3511,7 @@
         {
           "node_type": "item",
           "title": "v1.0.1",
-          "description": "2026-07-25",
+          "description": "Kusdianta/disk-space-detective",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3520,7 +3520,7 @@
             "id": 1309499771,
             "language": "PowerShell",
             "license": "MIT",
-            "last_commit": "2026-08-21T03:20:21Z",
+            "last_commit": "2026-10-03T03:42:20Z",
             "open_issues": 0,
             "owner": "Kusdianta",
             "repo": "disk-space-detective",
@@ -3600,7 +3600,7 @@
         {
           "node_type": "item",
           "title": "v0.2.0",
-          "description": "2026-07-22",
+          "description": "wauputr4/skill-bansos",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3653,7 +3653,7 @@
         {
           "node_type": "item",
           "title": "v1.0.0",
-          "description": "2026-08-03",
+          "description": "wauputr4/hermex",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3695,7 +3695,7 @@
         {
           "node_type": "item",
           "title": "v1.2.0",
-          "description": "2025-12-12",
+          "description": "jutionck/tahlil-tracker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3740,7 +3740,7 @@
         {
           "node_type": "item",
           "title": "v1.2.0",
-          "description": "2026-08-25",
+          "description": "AdityaZxxx/sheltermark",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3806,7 +3806,7 @@
         {
           "node_type": "item",
           "title": "v0.3.89",
-          "description": "2026-06-26",
+          "description": "dayartcrew-web/masday-workflow-rust",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3871,7 +3871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:15:14.632Z",
+    "last_updated": "2026-10-03T04:48:58.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Indonesian open source projects listing on https://indopensource.org/projects and https://tokengratis.id/opensource",
